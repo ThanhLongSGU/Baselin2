@@ -1,7 +1,11 @@
 [project]
-name = "baseline2"
+name = "FeedbackAnalysis"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.11"
-dependencies = []
+dependencies = [
+    "pyvi>=0.1.1",
+    "requests>=2.34.2",
+    "scikit-learn>=1.8.0",
+]
