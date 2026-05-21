@@ -8,3 +8,14 @@ wheels/
 
 # Virtual environments
 .venv
+
+#Other
+*.zip
+*.tar.gz
+*.rar
+Teencode
+
+# Các file cấu hình của VS Code hoặc hệ điều hành
+.vscode/
+.DS_Store
+Thumbs.db

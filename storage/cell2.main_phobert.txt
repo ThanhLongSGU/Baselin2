@@ -1,0 +1,56 @@
+import os
+import re
+# =====================================================================
+# CELL 2: TÌM KIẾM VÀ NẠP FILE acronyms_dictionary.txt vào dự án
+# =====================================================================
+# 1. TRUY TÌM FILE TỪ ĐIỂN THÔNG MINH
+# Nếu Python đang ở đúng notebooks -> tìm trực tiếp. Nếu bị VnCoreNLP nhốt -> lùi ra 1 bước tìm
+dict_path = "acronyms_dictionary.txt"
+if not os.path.exists(dict_path):
+    dict_path = "../acronyms_dictionary.txt"
+
+# Hàm đọc file từ điển cấu hình ngoài
+def load_acronyms(file_path):
+    acronyms_dict = {}
+    if not os.path.exists(file_path):
+        print(f"⚠️ Vẫn không tìm thấy file ở: {file_path}")
+        return acronyms_dict
+    with open(file_path, 'r', encoding='utf-8') as f:
+        for line in f:
+            line = line.strip()
+            if not line or line.startswith('#'):
+                continue
+            if '=' in line:
+                key, value = line.split('=', 1)
+                acronyms_dict[key.strip().lower()] = value.strip().lower()
+    return acronyms_dict
+
+ACRONYMS_DICT = load_acronyms(dict_path)
+print(f"✅ Đã nạp xong từ điển ngoài! Số từ khóa: {len(ACRONYMS_DICT)}")
+
+# Hàm dọn dẹp và gạch nối từ ghép đã nâng cấp thuật toán Regex
+def clean_sentence_pipeline(text):
+    if not isinstance(text, str) or text.strip() == "":
+        return ""
+    text = text.lower()
+    
+    # Sửa viết tắt THÔNG MINH bằng Regex
+    for shortcut, full_word in ACRONYMS_DICT.items():
+        if re.match(r'^\w+$', shortcut, flags=re.UNICODE):
+            text = re.sub(r'\b' + shortcut + r'\b', full_word, text)
+        else:
+            text = text.replace(shortcut, full_word)
+            
+    # Gạch nối từ ghép qua VnCoreNLP
+    try:
+        sentences = rdrsegmenter.word_segment(text)
+        text_segmented = sentences[0] if sentences else text
+    except:
+        text_segmented = text
+    return text_segmented
+
+# CHẠY THỬ NGHIỆM ĐỂ KIỂM TRA CHẤT LƯỢNG
+test_str = "gvc giảng bài rất hay, sv hiểu bài ok <3"
+print("\n👀 KẾT QUẢ CHẠY THỬ NGHIỆM LỌC CÂU:")
+print(f"  - Câu gốc: {test_str}")
+print(f"  - Sạch sẽ: {clean_sentence_pipeline(test_str)}")

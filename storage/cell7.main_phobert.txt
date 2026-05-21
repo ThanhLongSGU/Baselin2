@@ -1,0 +1,44 @@
+# =====================================================================
+# CELL 7: KIỂM THỬ MÔ HÌNH (DỰ ĐOÁN THỰC TẾ VỚI PIPELINE)
+# =====================================================================
+from transformers import pipeline
+
+# 1. Gọi não bộ PhoBERT vừa "tốt nghiệp" từ ổ cứng lên
+saved_model_dir = "./phobert_final_model"
+print("⏳ Đang gọi PhoBERT thức dậy từ ổ cứng...")
+classifier = pipeline("text-classification", model=saved_model_dir, tokenizer=saved_model_dir)
+print("✅ AI đã sẵn sàng nhận lệnh!")
+
+# 2. Khai báo từ điển dịch nhãn (Nhãn 0, 1, 2 tùy thuộc vào data gốc của bạn)
+# Thông thường: 0 là Tiêu cực, 1 là Trung lập, 2 là Tích cực (Bạn có thể sửa lại cho khớp data)
+label_dict = {
+    "LABEL_0": "🔴 TIÊU CỰC (Negative)",
+    "LABEL_1": "⚪ TRUNG TÍNH (Neutral)", 
+    "LABEL_2": "🟢 TÍCH CỰC (Positive)"
+}
+
+# 3. Hàm dự đoán trọn gói từ A-Z
+def AI_Phan_Tich_Feedback(cau_review):
+    # Bước 1: Cho qua 3 lớp khiên dọn rác (hàm clean_sentence_pipeline ở Cell 3)
+    cau_sach = clean_sentence_pipeline(cau_review)
+    
+    print(f"\n📝 CÂU GỐC: '{cau_review}'")
+    print(f"🔍 SAU KHI DỌN: '{cau_sach}'")
+    
+    # Bước 2: Đưa cho AI phán xét
+    ket_qua = classifier(cau_sach)
+    nhan_ai_tra_ve = ket_qua[0]['label']
+    do_tu_tin = ket_qua[0]['score'] * 100
+    
+    print(f"🤖 PHÁN QUYẾT: {label_dict.get(nhan_ai_tra_ve, nhan_ai_tra_ve)} (Độ tự tin: {do_tu_tin:.2f}%)")
+    print("-" * 60)
+
+# =====================================================================
+# 4. CHẠY THỬ VỚI CÁC CÂU REVIEW ĐẬM CHẤT SINH VIÊN
+# =====================================================================
+
+AI_Phan_Tich_Feedback("thầy dạy hay cực kỳ, csvc ok, sv rất thik <3")
+
+AI_Phan_Tich_Feedback("ông gvc này giảng buồn ngủ vãi, toàn đọc slide, thi thì cho đề tào lao")
+
+AI_Phan_Tich_Feedback("trường hcmut wifi yếu, nhưng được cái mấy môn lt học cũng ổn")
