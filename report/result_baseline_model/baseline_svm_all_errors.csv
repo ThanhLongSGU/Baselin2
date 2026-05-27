@@ -1,0 +1,965 @@
+﻿clean_text_PhoBERT,true_sentiment,pred_sentiment,true_topic,pred_topic
+nói tiếng anh lưu_loát .,Tích cực,Trung tính,Giảng viên,Khác
+cô max có tâm .,Tích cực,Tích cực,Giảng viên,Khác
+"giảng bài thu_hút , dí_dỏm .",Tích cực,Tích cực,Giảng viên,Chương trình
+tính điểm thi_đua các nhóm .,Tích cực,Trung tính,Chương trình,Chương trình
+trong trường macbook thầy_số hai thì không có máy nào số_một .,Tích cực,Tiêu cực,Khác,Cơ sở vật chất
+sinh_viên không tiếp_thu kịp cũng như không hiểu gì .,Tiêu cực,Tiêu cực,Chương trình,Khác
+cung_cấp kiến_thức bổ_ích .,Tích cực,Tích cực,Giảng viên,Chương trình
+bắt_đầu buổi học đúng giờ .,Tích cực,Trung tính,Giảng viên,Chương trình
+nên đưa ra một_vài phương_pháp học lập_trình hay cho sinh_viên .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+cách mà cô tiếp_cận với sinh_viên .,Trung tính,Tích cực,Giảng viên,Giảng viên
+thầy dạy rất nhiệt_tình và giảng kỹ bài không cần cải_thiện gì cả .,Tích cực,Tiêu cực,Giảng viên,Giảng viên
+giữa lý_thuyết từ_vựng với trò_chơi để dễ tiếp_thu .,Tiêu cực,Tích cực,Chương trình,Chương trình
+môn_học này giúp chúng_em hiểu ra những vấn_đề cơ_bản .,Trung tính,Tích cực,Chương trình,Chương trình
+cung_cấp bài_tập đa_dạng .,Tích cực,Tích cực,Giảng viên,Chương trình
+hay gõ micro vào bảng hoặc bàn .,Tiêu cực,Tiêu cực,Giảng viên,Cơ sở vật chất
+"cô đại_học công_nghiệp việt_trì tính , học không áp_lực .",Tích cực,Tích cực,Chương trình,Giảng viên
+phần_lớn chỉ là lý_thuyết và bài_tập .,Tích cực,Tiêu cực,Chương trình,Chương trình
+"cô nhiệt_tình , giảng bài hiệu_quả .",Tích cực,Tích cực,Chương trình,Giảng viên
+"khi nghỉ học , cần thông_báo kịp_thời trên web của khoa wzjwz148 .",Tiêu cực,Tiêu cực,Giảng viên,Khác
+không biết được chính_xác bao_giờ học thật để đi học .,Tiêu cực,Trung tính,Chương trình,Khác
+như_vậy tụi em sẽ định_hướng tốt hơn và tập_trung vào những thứ cần_thiết .,Trung tính,Tiêu cực,Chương trình,Khác
+"sử_dụng thời_gian không hiệu_quả , đi quá muộn và về quá trễ ( 8 h30 vào lớp 12 h về ) .",Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+"ấn_tượng nhất doubledot dạy không cần máy_chiếu hay laptop , nhưng lượng bài giảng có_thể nói là "" khủng "" , nhìn thầy ghi bài giảng lên bảng mà bất_ngờ .",Tích cực,Tiêu cực,Giảng viên,Giảng viên
+đưa nhiều bài_tập khó mà có lời_giải cho sinh_viên về nhà_nghiên_cứu .,Tích cực,Tiêu cực,Giảng viên,Chương trình
+giảng_viên cho bài_tập nhiều đầy_đủ .,Tích cực,Trung tính,Giảng viên,Giảng viên
+up các bài giảng đầy_đủ .,Tích cực,Trung tính,Giảng viên,Giảng viên
+rất thực_tế không dài_dòng .,Tích cực,Tiêu cực,Khác,Khác
+"thêm hoạt_động của sinh_viên , giúp sinh_viên chủ_động hơn .",Tiêu cực,Tích cực,Chương trình,Giảng viên
+tính thực_tế cũng cao so với việc thi lý_thuyết lấy điểm .,Tích cực,Tiêu cực,Chương trình,Chương trình
+"giảng_viên đảm_bảo thời_gian trên lớp , tạo điều_kiện trong quá_trình thực_hành và thi thực_hành .",Tích cực,Tích cực,Giảng viên,Chương trình
+"slide thầy chiếu lên màn chiếu doubledot dày_đặc chữ , nhìn không rõ_ràng .",Tiêu cực,Tiêu cực,Chương trình,Cơ sở vật chất
+giảng bài xúc tích .,Tích cực,Trung tính,Giảng viên,Chương trình
+có up bài cho sinh_viên làm thêm bài_tập .,Tích cực,Trung tính,Giảng viên,Chương trình
+em không thích như_vậy tí_xíu nào .,Tiêu cực,Trung tính,Giảng viên,Khác
+"thầy dạy đường_lối mà em cứ ngỡ như em đang trở về thời đó , cách kể chuyện lịch_sử qua tuyệt_vời , có_thể nói nếu tất_cả các môn chính_trị nào cũng có thầy dạy thì chắc em lên trình chính_trị nhiều lắm ạ .",Tích cực,Trung tính,Giảng viên,Giảng viên
+thời_gian các bạn lên làm bài_tập thì thầy nên giảng cho các sinh_viên khác chưa làm được .,Tiêu cực,Tiêu cực,Chương trình,Giảng viên
+không slide .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+"năng_động , cập_nhật kiến_thức thêm những kiến_thức thực_tế và bổ_ích .",Tích cực,Tích cực,Giảng viên,Chương trình
+cách dạy đổi_mới .,Tích cực,Trung tính,Giảng viên,Giảng viên
+học thì quá ít nhưng khi thi thì quá nhiều yêu_cầu viết code trong đề thi thì sao mà sinh_viên có_thể làm được .,Tiêu cực,Tiêu cực,Khác,Chương trình
+không thật_sự dạy .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+bài giảng hay và dễ hiểu .,Tích cực,Tích cực,Chương trình,Giảng viên
+đồ_án phần bắt_buộc chỉ chiếm 1 dot5 điểm và chỉ biết sau khi đã nộp .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+nên cho sinh_viên slide để học .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+thêm nhiều bài_tập thiết_thực hơn .,Tiêu cực,Trung tính,Chương trình,Chương trình
+phương_pháp học áp_dụng thực_tiễn .,Tích cực,Tích cực,Giảng viên,Chương trình
+"ví_dụ phù_hợp với nội_dung kiến_thức , hướng_dẫn chi_tiết .",Trung tính,Tích cực,Chương trình,Chương trình
+cần có nhiều giảng_viên như cô dạy hơn .,Tích cực,Tiêu cực,Giảng viên,Giảng viên
+ít cho bài_tập .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+có nhiều thầy_cô đến lớp không đúng giờ .,Tiêu cực,Trung tính,Cơ sở vật chất,Giảng viên
+chúng_em rất khó nắm kiến_thức khi chỉ nghe các buổi seminar .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+chứ không_chỉ cách viết một đoạn code mới học từ lý_thuyết .,Tiêu cực,Tiêu cực,Chương trình,Khác
+"chia nhỏ điểm ra , mỗi buổi 1 bài lab , nộp bài lab để lấy điểm .",Tiêu cực,Trung tính,Chương trình,Chương trình
+em rất hài_lòng về phương_pháp giảng_dạy này .,Tích cực,Tích cực,Giảng viên,Khác
+"nhiệt_tình , dễ nghe , dễ hiểu .",Tích cực,Tích cực,Giảng viên,Khác
+đề_cập nhiều thông_tin mở_rộng ngoài xã_hội .,Tích cực,Tích cực,Giảng viên,Chương trình
+rất hài_lòng nên không có gì không hài_lòng .,Tích cực,Tiêu cực,Khác,Khác
+giáo_viên hầu_như chỉ dạy qua_loa cho có .,Tiêu cực,Trung tính,Giảng viên,Giảng viên
+"gây_mê , hay mắng và rất dễ hờn coloncontemn .",Tiêu cực,Tích cực,Giảng viên,Khác
+hoặc cô có_thể cung_cấp trực_tiếp slide tiếng anh để sinh_viên học .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+bài_tập thầy giảng rất hay .,Tích cực,Tích cực,Chương trình,Giảng viên
+hơi khô_khan trong việc giảng_dạy .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+các buổi ngoại_khoá nên được mở .,Tiêu cực,Tiêu cực,Khác,Chương trình
+"do trình_độ tiếng anh của lớp không cao chỉ một số_ít có khả_năng nghe , đọc , và hiểu được bài giảng của thấy nên hiệu_quả của việc giảng_dạy bằng tiếng anh là chưa cao .",Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+sử_dụng quá nhiều tiếng anh để giảng bài trong khi sinh_viên ngồi dưới chẳng hiểu là bao_nhiêu .,Tiêu cực,Tiêu cực,Chương trình,Giảng viên
+tâm_lý .,Trung tính,Trung tính,Khác,Giảng viên
+chấm điểm hơi khó .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+sửa bài chữ nhỏ quá .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+không đáp_ứng đủ số buổi học .,Tiêu cực,Trung tính,Giảng viên,Chương trình
+cách sửa bài_tập còn sơ_sài .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+"chưa học kiểm_thử , bắt làm test thì sao mà làm ?",Tiêu cực,Trung tính,Giảng viên,Chương trình
+nhưng đi thực_hành mà giảng_viên hoàn_toàn không giảng_dạy hay tiếp_xúc gì với sinh_viên cả thì không giống gì cái lớp_học cho lắm .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+nâng cao chất_lượng giảng_viên và trang_thiết_bị hỗ_trợ .,Tiêu cực,Tiêu cực,Giảng viên,Cơ sở vật chất
+cô hoàng toàn không dùng courses hay các phương_tiện liên_lạc thông_báo .,Tích cực,Tiêu cực,Giảng viên,Giảng viên
+thầy_cô cần cho thêm bài_tập tài_liệu về nhà cho sinh_viên rèn_luyện cùng với đó là cho thêm nhiều bài nghe bổ_ích tăng khả_năng nghe nói tiếng anh của sinh_viên .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+"thiết_nghĩ giảng_viên đứng_lớp lý_thuyết phải có kỹ_năng sư_phạm nhất_định khả_năng truyền_đạt , cách hướng_dẫn sinh_viên , tuy_nhiên tại lớp này giảng_viên không làm được điều đó .",Tiêu cực,Trung tính,Giảng viên,Giảng viên
+cho nhiều ví_dụ và chỉ rõ hơn .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+"tận_tâm , nghiêm_khắc .",Tích cực,Tích cực,Giảng viên,Khác
+nó thật_sự ảnh_hưởng quá nhiều đến chất_lượng học môn này của em .,Tiêu cực,Tiêu cực,Giảng viên,Khác
+nếu có hướng_dẫn cũng là lý_thuyết suông khó áp_dụng .,Tiêu cực,Trung tính,Chương trình,Khác
+thời_gian học .,Trung tính,Tiêu cực,Chương trình,Chương trình
+em mong là có phần khảo_sát môn_học ở giữa kỳ chứ cuối kỳ thì môn_học đã qua đi rồi .,Tiêu cực,Tiêu cực,Khác,Chương trình
+giúp_đỡ học_sinh các bài khó .,Tích cực,Tiêu cực,Giảng viên,Giảng viên
+tiến_độ dạy hơi nhanh .,Tiêu cực,Tiêu cực,Chương trình,Giảng viên
+môn này em không được học với cô wzjwz160 .,Tiêu cực,Trung tính,Khác,Khác
+cách diễn_đạt đôi_lúc còn khó hiểu .,Tiêu cực,Tiêu cực,Chương trình,Giảng viên
+"hay giải theo cách của mình , chưa giải_thích được nhiều thắc_mắc của sinh_viên .",Tích cực,Tiêu cực,Giảng viên,Giảng viên
+giảng còn dài .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+bài_tập thực_hành sát với lý_thuyết .,Tích cực,Trung tính,Chương trình,Chương trình
+"không có , giáo_viên dạy rất ổn !",Tích cực,Tiêu cực,Giảng viên,Giảng viên
+phải làm bảng đánh_giá kỹ_lưỡng về việc học nhóm ngoài giờ học làm tụi em cảm_thấy không thoải_mái khi học nhóm .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+mong cô luôn giữ được phong_độ đó .,Tích cực,Trung tính,Giảng viên,Khác
+"giảng bài sinh_động , có nhiều cuộc thảo_luận trên lớp .",Tích cực,Tích cực,Giảng viên,Chương trình
+còn ít đưa ví_dụ và code trực_tiếp để có_thể hiểu tại lớp .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+cảm_ơn thầy giúp cho em hiểu rõ hơn về công_việc của một tester .,Tích cực,Trung tính,Giảng viên,Giảng viên
+"tôi không đồng_ý với cách giảng_dạy của giáo_viên , một bài mà giảng lúc tiếng anh , lúc tiếng việt khoe khả_năng của mình và tôi nhận thấy kiến_thức trong bài giảng đó tôi không_thể nắm_bắt được trên 50 % .",Tiêu cực,Trung tính,Giảng viên,Chương trình
+không nên để thầy này tiếp_tục dạy mạng máy_tính nữa .,Tiêu cực,Tiêu cực,Giảng viên,Cơ sở vật chất
+"kiến_thức dồi_dào , thường_xuyên cập_nhật thông_tin cho sinh_viên .",Tích cực,Tích cực,Giảng viên,Chương trình
+môn wzjwz19 khá xa_lạ đối_với em .,Tiêu cực,Tiêu cực,Chương trình,Khác
+tiếng anh tốt .,Tích cực,Tích cực,Giảng viên,Khác
+kỹ những chương cuối .,Trung tính,Tích cực,Khác,Khác
+kéo_dài thời_gian của buổi học 30 - 45 phút nhưng không làm buổi học thêm hiệu_quả .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+đặt nhiều câu hỏi trong lúc dạy .,Tích cực,Tiêu cực,Giảng viên,Giảng viên
+có giờ tiếp sinh_viên .,Tích cực,Trung tính,Giảng viên,Khác
+"giảng_viên không nên cho các nhóm tổ_chức seminar để tìm_hiểu vấn_đề mới liên_tục hàng tuần , làm_vậy nảy_sinh nhiều vấn_đề doubledot thứ nhất là kiến_thức sinh_viên thu_thập đa_phần đều giống nhau , lấy từ một nguồn và làm qua_loa đối_phó .",Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+"tất_cả đều mới_mẻ nhưng phải làm trong một thời_gian ngắn vào cuối kỳ , trong khi đó sinh_viên còn phải học rất nhiều thứ khác .",Tiêu cực,Tiêu cực,Chương trình,Khác
+thái_độ làm_việc tốt .,Tích cực,Tích cực,Giảng viên,Khác
+ít demo .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+"có hướng_dẫn thêm kiến_thức bên ngoài , các phương_pháp lập_trình hiệu_quả .",Tích cực,Tích cực,Giảng viên,Chương trình
+làm các bài_tập và mạch điện đơn_giản như_thế sẽ hứng_thú hơn !,Tiêu cực,Trung tính,Chương trình,Chương trình
+"cho bọn em tự nghiên_cứu các phần và tự lên thuyết_trình về bài giảng đó , điều đó thật_sự rất bổ_ích cho bọn em .",Tích cực,Trung tính,Giảng viên,Khác
+cách giảng_viên khuyên_bảo thẳng_thắn .,Tích cực,Trung tính,Giảng viên,Giảng viên
+"em nghĩ thầy nên cho nhiều bài kiểm_tra hơn , có_thể sau hoặc giữa mỗi chương , như_vậy giám_sát được rõ tình_hình học_tập của sinh_viên .",Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+"giảng bài kỹ , có cho sinh_viên làm thuyết_trình để tự nghiên_cứu bài trước khi đến lớp .",Tích cực,Trung tính,Giảng viên,Giảng viên
+"thi cuối kỳ đến và chúng_em chưa học được hết môn mạng , không có buổi ôn_tập , không có đề_cương .",Tiêu cực,Trung tính,Chương trình,Chương trình
+cả cuộc_sống sau_này lẫn trong môn_học .,Trung tính,Tích cực,Khác,Khác
+"cô cho tài_liệu học_tập là một trang_web , lên đó tự học và làm đồ_án .",Tiêu cực,Trung tính,Giảng viên,Chương trình
+"không nên nói doubledot "" slide này không phải của tui , nên tui cũng không biết nó nói cái gì "" gây khó_chịu cho sinh_viên khi học .",Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+giờ học khá nhàm_chán .,Tiêu cực,Tiêu cực,Giảng viên,Khác
+"đã vậy còn không tôn_trọng sinh_viên bằng việc cắt ngang buổi seminar của sinh_viên với lý_do "" em nói nhiều quá , thôi lướt qua phần này đi "" .",Tiêu cực,Tiêu cực,Giảng viên,Khác
+học được nhiều kỹ_năng .,Tích cực,Tích cực,Giảng viên,Chương trình
+"học thầy từ đầu học_kỳ một đến tận hết học_kỳ , quả là không sai .",Tích cực,Trung tính,Giảng viên,Khác
+"thầy nhiệt_tình , học 2 tiết cho làm bài_tập 1 tiết phần vừa học .",Tích cực,Tích cực,Giảng viên,Chương trình
+"đề_nghị giáo_viên dạy đúng giáo_trình môn_học do nhà_trường đưa ra , phần thi giữa kỳ thầy không dạy heapsort nhưng thi lại ra câu này 4 điểm .",Tiêu cực,Trung tính,Giảng viên,Chương trình
+em hoàn_toàn không hài_lòng về cách giảng_dạy của thầy_cả .,Tiêu cực,Trung tính,Giảng viên,Khác
+nên đưa ra một_số bài_tập và giải mẫu .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+cám_ơn thầy fraction cô rất nhiều .,Tích cực,Tích cực,Giảng viên,Khác
+cách dạy của thầy nâng cao được khả_năng nghe tiếng anh .,Tích cực,Trung tính,Giảng viên,Giảng viên
+ngoại_trừ khi thi thì có một_số phần không được nói nhưng sao thi lại ra câu đó .,Tiêu cực,Trung tính,Chương trình,Khác
+"đồ_án cuối kỳ thì chấm chéo về "" source code "" giữa các nhóm trong khi tên môn_học là "" quản_lý dự_án công_nghệ_thông_tin "" .",Tiêu cực,Trung tính,Chương trình,Chương trình
+chương_trình học thú_vị .,Tích cực,Tích cực,Giảng viên,Chương trình
+đáp áp cụ_thể cho bài_tập cũng không có .,Tiêu cực,Trung tính,Chương trình,Chương trình
+thầy truyền_đạt quá hay .,Tích cực,Tiêu cực,Giảng viên,Giảng viên
+"thầy nghiêm_túc , cách làm_việc và yêu_cầu đúng bản_chất của môn_học .",Tích cực,Trung tính,Giảng viên,Giảng viên
+thuyết_trình thường_xuyên .,Tiêu cực,Trung tính,Chương trình,Khác
+"thời_gian hợp_lý , thái_độ thoải_mái .",Tích cực,Tích cực,Chương trình,Khác
+giảng_viên nên cho bài_tập ít lại vì số_lượng bài quá nhiều sinh_viên không làm hết được vì còn những môn_học khác .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+cô còn cho một thời_gian để gặp học_sinh .,Tích cực,Tiêu cực,Giảng viên,Giảng viên
+làm bài giảng sinh_động .,Tiêu cực,Tích cực,Giảng viên,Chương trình
+đã có làm đơn với phòng đào_tạo .,Trung tính,Tiêu cực,Khác,Chương trình
+tiến_trình dạy chậm !,Tiêu cực,Trung tính,Giảng viên,Giảng viên
+có những chuyến tham_quan bổ_ích và thực_tiễn .,Tích cực,Tích cực,Giảng viên,Chương trình
+trên lớp cho ít ví_dụ mở_rộng nên chưa hiểu sâu .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+nên có hướng_dẫn trước mỗi bài_tập thực_hành .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+"nhiệt_tình , có trách_nhiệm .",Tích cực,Tích cực,Giảng viên,Khác
+không điểm_danh .,Trung tính,Trung tính,Giảng viên,Khác
+bài giảng bằng tiếng anh giúp sinh_viên tiếp_cận ngoại_ngữ tốt hơn .,Tiêu cực,Tích cực,Chương trình,Giảng viên
+có cung_cấp tài_liệu cho sinh_viên .,Trung tính,Tích cực,Giảng viên,Chương trình
+"cô dạy lý_thuyết sát , chặt_chẽ chương_trình học cũng như ôn_tập .",Tích cực,Trung tính,Giảng viên,Giảng viên
+"giảng_viên chưa quản được lớp và chấm điểm "" có_vẻ "" theo cảm_tính .",Tiêu cực,Trung tính,Giảng viên,Giảng viên
+giảng_viên đến lớp rất đúng giờ ( sớm hơn cả giờ bắt_đầu ) .,Tích cực,Tiêu cực,Giảng viên,Giảng viên
+giảng_dạy nghiêm_túc .,Tích cực,Trung tính,Giảng viên,Giảng viên
+cần điều_chỉnh số_lượng sinh_viên hợp_lý trong lớp_học bởi trong lớp khá đông .,Tiêu cực,Tiêu cực,Chương trình,Khác
+đi muộn .,Tiêu cực,Tiêu cực,Giảng viên,Khác
+cần up nhiều tài_liệu hơn lên course .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+cám_ơn cô đã dạy lớp em .,Tích cực,Trung tính,Khác,Khác
+ngoài_ra còn nhiều kiến_thức ngoài .,Trung tính,Tích cực,Chương trình,Chương trình
+sự kiên_trì của giảng_viên với lớp dù sinh_viên có_mặt khá ít .,Tích cực,Tiêu cực,Giảng viên,Giảng viên
+giảng_dạy lý_thuyết tốt .,Tích cực,Tích cực,Giảng viên,Chương trình
+"cô cho làm bài_tập để thực_tiễn lý_thuyết rất nhiều và phù hơp , khiến chúng_em hiểu ngay được nội_dung của môn_học .",Tích cực,Tích cực,Giảng viên,Chương trình
+có demo trực_tiếp .,Trung tính,Tích cực,Giảng viên,Chương trình
+cụ_thể doubledot về việc hướng_dẫn bài_tập về nội_dung đó .,Trung tính,Tiêu cực,Giảng viên,Chương trình
+"giảng_viên cho bài_tập hay , khó .",Tích cực,Tiêu cực,Giảng viên,Giảng viên
+"em nghĩ thầy dạy hơi chậm so với lớp khác nhưng_mà thầy dạy đảm_bảo chất_lượng , rèn được cho bọn em khả_năng làm_việc nhóm , thuyết_trình , cách trả_lời câu hỏi .",Tích cực,Tiêu cực,Giảng viên,Giảng viên
+"giọng nói của thầy truyền_cảm , không gây cảm_giác buồn_ngủ .",Tích cực,Tiêu cực,Giảng viên,Giảng viên
+rất có tâm_huyết và thương sinh_viên colonsmile .,Tích cực,Tích cực,Giảng viên,Khác
+hơi nhanh nhưng em vẫn theo kịp được .,Trung tính,Tiêu cực,Giảng viên,Khác
+"mang tính chê_trách sinh_viên về chuyên_môn , làm cho tâm_lý sinh_viên đi xuống , không có hứng_thú trong học_tập .",Tiêu cực,Tích cực,Giảng viên,Chương trình
+cô rất xinh .,Tích cực,Tích cực,Giảng viên,Khác
+"đề cuối kỳ ra khá dở , trong khi java có nhiều cái hay thì không ra .",Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+"hướng_dẫn chi_tiết , rõ_ràng .",Tích cực,Tích cực,Giảng viên,Khác
+còn nhiều thiếu_sót nhỏ .,Tiêu cực,Tiêu cực,Giảng viên,Khác
+"lớp thực_hành hầu_như không làm gì cả , mặc_dù lúc đầu cô thực_hành có dạy nhưng rất ít so với việc áp_dụng vào thực_hiện đồ_án , càng về sau hầu_như không dạy thêm được chút gì .",Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+cảm_thấy cô rất nhiệt_tình làm_việc theo nhóm hiệu_quả .,Tích cực,Tích cực,Giảng viên,Khác
+"nghỉ nhiều buổi thực_hành , mất nhiều kiến_thức quan_trọng của oop không phổ_biến và hướng_dẫn cụ_thể nội_dung và phương_pháp thực_hành không nhiệt_tình .",Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+đảm_bảo đúng giờ học .,Tích cực,Trung tính,Giảng viên,Giảng viên
+"chấm bài theo hệ_thống hay báo lỗi , không được sáng_tạo theo lối nghĩ riêng .",Tiêu cực,Trung tính,Chương trình,Chương trình
+em nghĩ như_vậy sẽ tốt hơn vì họ sẽ biết được khả_năng của sinh_viên trong lớp tới đâu để cho bài thực_hành được phù_hợp với trình_độ của sinh_viên .,Trung tính,Tiêu cực,Chương trình,Chương trình
+bài_tập phong_phú .,Tích cực,Trung tính,Chương trình,Chương trình
+dạy_học theo chương_trình .,Trung tính,Trung tính,Giảng viên,Chương trình
+dạy kết_hợp với các hoạt_động liên_quan đến bài_học để sinh_viên dễ_dàng nắm và nhớ kiến_thức hơn .,Tiêu cực,Tích cực,Giảng viên,Giảng viên
+"thầy còn hướng_dẫn các kỹ_năng thuyết_trình , học tiếng anh chuyên_ngành , làm báo_cáo , slide .",Tích cực,Tiêu cực,Giảng viên,Chương trình
+"thầy đăng thông_báo trên facebook cá_nhân , cách thầy nói_chuyện dễ gây hiểu nhầm .",Tiêu cực,Tích cực,Giảng viên,Giảng viên
+"đảm_bảo thời_gian học đầy_đủ , đảm_bảo học hết trong giáo_trình .",Tích cực,Trung tính,Giảng viên,Chương trình
+thân_thiện và dễ tiếp_thu hơn .,Tiêu cực,Tích cực,Giảng viên,Giảng viên
+giáo_viên giảng_dạy tận_tình và cho làm nhiều bài_tập tại lớp .,Tích cực,Trung tính,Giảng viên,Giảng viên
+giảng bài rất dễ hiểu bài .,Tích cực,Tích cực,Giảng viên,Chương trình
+phương_pháp dạy_học .,Trung tính,Tích cực,Giảng viên,Giảng viên
+tăng thời_gian nghe tiếng anh .,Tiêu cực,Trung tính,Chương trình,Chương trình
+nửa học_kỳ không có giáo_viên hướng_dẫn thực_hành .,Tiêu cực,Trung tính,Giảng viên,Chương trình
+vì_thế không_thể tốt toàn_vẹn được .,Tiêu cực,Tích cực,Khác,Khác
+để sinh_viên thực_hành nhiều hơn .,Tiêu cực,Tiêu cực,Cơ sở vật chất,Chương trình
+khi chia nhóm em không học bên nhóm của thầy này và thầy cũng rất ít lên_lớp nên em không có ý_kiến gì .,Trung tính,Tiêu cực,Giảng viên,Giảng viên
+"lên_lớp thầy không có hướng_dẫn , giải_thích một_vài thứ mình sẽ làm ( các môn khác thì có hướng_dẫn sơ_lược ) .",Tiêu cực,Trung tính,Giảng viên,Giảng viên
+"giảng_viên trẻ , nhiệt_huyết nhưng thiếu kinh_nghiệm , khuyến_khích sinh_viên thực_hành trên hackerrankdotcom .",Tích cực,Tiêu cực,Giảng viên,Giảng viên
+chưa sâu rõ hoàn_toàn kiến_thức .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+giáo_viên giải bài_tập cần giải_thích kỹ hơn lý_do vì sao đáp_án đó đúng hoặc vì sao sai để sinh_viên biết nên sửa_chữa chỗ nào cho hợp_lý và biết mình sai ở đâu .,Tiêu cực,Tiêu cực,Giảng viên,Khác
+"dạy hầu_như bằng tiếng việt , nó giống như 1 lớp_học ngữ_pháp ở cấp 3 mà tôi chẳng mấy ứng_dụng và chẳng có hứng_thú khi học tiếng anh ở trường 1 kiểu mà chỉ coi_trọng điểm_số .",Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+dứt_khoát .,Tích cực,Trung tính,Khác,Khác
+trời nóng .,Tiêu cực,Tiêu cực,Khác,Cơ sở vật chất
+tiết học lúc_nào cũng sôi_nổi .,Tích cực,Tiêu cực,Giảng viên,Giảng viên
+hướng_dẫn rõ_ràng cách thực_hiện .,Tích cực,Trung tính,Giảng viên,Giảng viên
+dạy được .,Tích cực,Trung tính,Giảng viên,Giảng viên
+"thầy có nhiều kinh_nghiệm , hỗ_trợ sinh_viên cho việc thực_hành các bài_tập trên lớp .",Tích cực,Tích cực,Giảng viên,Chương trình
+cần hướng_dẫn bài_tập cho sinh_viên một_cách chi_tiết hơn_nữa .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+"không_khí lớp_học không được sôi_động , năng_nổ .",Tiêu cực,Tiêu cực,Chương trình,Khác
+cực dễ hiểu bài luôn .,Tích cực,Tích cực,Giảng viên,Khác
+dạy full english .,Tiêu cực,Trung tính,Giảng viên,Giảng viên
+tính thực_tiễn của môn_học .,Trung tính,Tích cực,Chương trình,Chương trình
+cô giảng bài rất là hay và không nhàm_chán .,Tích cực,Tiêu cực,Giảng viên,Giảng viên
+cô lên_lớp đầy_đủ và dạy theo đúng chương_trình .,Tích cực,Trung tính,Giảng viên,Giảng viên
+kết_thúc tiết học quá trễ .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+sáng_tạo trong giảng_dạy .,Tích cực,Tích cực,Khác,Giảng viên
+nắng vào buổi sáng ở gần cửa_sổ .,Tiêu cực,Tiêu cực,Khác,Chương trình
+em mong giờ lên_lớp có những niềm đại_học công_nghiệp việt_trì hơn .,Tiêu cực,Tiêu cực,Khác,Giảng viên
+"giảng dễ hiểu , cung_cấp tài_liệu học_tập đầy_đủ .",Tích cực,Tích cực,Giảng viên,Chương trình
+"thầy nên quan_tâm mức_độ khó của từng câu và phân_bổ thời_gian hợp_lý , hơn là cho một cái đề thi mức_độ xử_lý như nhau nhưng rải_rác quá nhiều , khiến chúng_em thi trên giấy vô_cùng khó_khăn .",Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+chấm báo_cáo hơi khắt_khe .,Tiêu cực,Trung tính,Giảng viên,Giảng viên
+"học xong môn này , em không có thêm một_chút kiến_thức nào về môn điện_tử cũng như cách vận_dụng những gì đã học vào thực_tế .",Tiêu cực,Trung tính,Giảng viên,Chương trình
+"nắm được tất_cả tên các thành_viên trong lớp , thường_xuyên quan_tâm tới sinh_viên .",Tích cực,Tích cực,Giảng viên,Khác
+cho_phép sinh_viên chuẩn_bị bài trước tiết_kiệm thời_gian làm thực_hành .,Tích cực,Trung tính,Chương trình,Chương trình
+đây là môn có thực_hành nhưng tới khi kết_thúc vẫn không thấy thực_hành đâu cả .,Tiêu cực,Trung tính,Giảng viên,Chương trình
+em thấy thầy giảng hơi bị buồn_ngủ .,Tích cực,Tiêu cực,Giảng viên,Giảng viên
+"còn khoảng 15 - 20 phút cuối giờ mới mở slide lên và đọc slide , lướt rất nhanh nên sinh_viên không_thể hiểu bài được .",Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+chúng_em đã nghỉ khoảng 4 tuần như_thế .,Trung tính,Tiêu cực,Khác,Khác
+"em là sinh_viên khó_khăn , phải vừa làm vừa học , nên thời_gian trống không được linh_hoạt .",Tiêu cực,Tiêu cực,Khác,Chương trình
+"không tiếp_cận lắm với sinh_viên , hơi chán .",Tiêu cực,Tiêu cực,Giảng viên,Khác
+có thời_gian để ngủ trên lớp .,Trung tính,Tiêu cực,Giảng viên,Chương trình
+"nhiều hoạt_động bổ_ích , trình_độ cao , phát_âm chuẩn , tốt .",Tích cực,Tích cực,Giảng viên,Chương trình
+làm_sao có_thể tìm thấy điểm không hài_lòng được .,Tích cực,Trung tính,Khác,Khác
+"mong các môn_học tới đề_cương môn_học và tài_liệu tham_khảo , cũng như sự tương_tác với sinh_viên của thầy sẽ được cải_thiện nhiều hơn .",Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+học được nhiều điều mới không nằm trong sách_vở .,Tích cực,Tiêu cực,Khác,Khác
+"thầy có thái_độ phân_biệt , chỉ quan_tâm đến một_vài sinh_viên .",Tiêu cực,Trung tính,Giảng viên,Giảng viên
+cho sinh_viên hiểu rõ về nội_dung môn_học .,Tiêu cực,Tích cực,Chương trình,Chương trình
+thường_xuyên điểm_danh .,Tiêu cực,Trung tính,Giảng viên,Giảng viên
+"mỗi khi chúng_em cần hỏi gì , cô đều giúp_đỡ .",Tích cực,Tiêu cực,Giảng viên,Khác
+"cô giảng lý_thuyết hơn dài , bài_tập áp_dụng ít chỉ toàn những bài cơ_bản , khó áp_dụng những bài đó để giải những bài khác nâng_cấp hơn .",Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+đó là điều mà em mong_muốn mỗi khi đến lớp .,Tích cực,Trung tính,Khác,Khác
+thầy không có dạy .,Tiêu cực,Trung tính,Giảng viên,Giảng viên
+đây là những ví_dụ nhập_môn mà các em học_sinh lớp 8 - 9 khi bắt_đầu được học về quy_hoạch_động để đi thi học_sinh giỏi .,Trung tính,Tiêu cực,Chương trình,Chương trình
+mến cô .,Tích cực,Trung tính,Giảng viên,Giảng viên
+"thích nhất phần thuật_toán dijktra , vì phần này nhờ cấu_trúc rời_rạc nên thầy giảng thì em biết .",Tích cực,Tiêu cực,Giảng viên,Giảng viên
+"không có , chỉ là do em lười học nên không tiếp_thu được .",Trung tính,Tiêu cực,Khác,Khác
+theo sát quá_trình thực_hành của sinh_viên .,Tích cực,Tích cực,Giảng viên,Chương trình
+kết_thúc môn_học mà không được cái gì hết .,Tiêu cực,Trung tính,Chương trình,Khác
+chấm điểm gắt .,Tiêu cực,Trung tính,Giảng viên,Giảng viên
+rèn_luyện kỹ_năng làm bài_tập .,Tích cực,Tích cực,Giảng viên,Chương trình
+"cần có tài_liệu bài_bản , rõ_ràng .",Tiêu cực,Tiêu cực,Chương trình,Khác
+"thầy giảng bài hơi nhàm_chán , bám quá sát và slide môn_học .",Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+không thu_hút được sự tập_trung của sinh_viên .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+"không cho bài_tập về nhà , phần học thực_hành có độ dễ chênh_lệch rất nhiểu so với lý_thuyết .",Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+"dễ hiểu , đúng giờ !",Tích cực,Tích cực,Giảng viên,Khác
+học_sinh chưa thật_sự đạt được kiến_thức đầy_đủ .,Tiêu cực,Tiêu cực,Khác,Chương trình
+"nhiệt_tình , đại_học công_nghiệp việt_trì vẻ , thoải_mái .",Tích cực,Tích cực,Giảng viên,Khác
+khi được đề_cập thì thầy cho đó là mục_tiêu cho các bạn tự tìm_hiểu nhằm phát_huy tốt nhất tư_duy_.,Trung tính,Tiêu cực,Chương trình,Chương trình
+"nội_dung môn_học , kiến_thức được truyền_đạt rất đầy_đủ .",Tích cực,Tích cực,Giảng viên,Chương trình
+nên nêu ra những ví_dụ áp_dụng cho thuc tiễn tốt hơn và dạy sinh_viên nhũng kiến_thức cơ_bản trước đã .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+"giảng_viên chủ_động tận_dụng thời_gian lên_lớp , sắp_xếp và nêu rõ các phương_pháp và cho sinh_viên bài_tập và tài_liệu đầy_đủ hơn .",Tiêu cực,Tích cực,Giảng viên,Chương trình
+sự nhiệt_tình và tâm_huyết .,Tích cực,Tích cực,Khác,Giảng viên
+em xin cám_ơn !,Tích cực,Trung tính,Khác,Khác
+cô cho nhiều bài_tập .,Tích cực,Trung tính,Giảng viên,Giảng viên
+cần có nhiều giảng_viên có phương_pháp dạy như thầy wzjwz147 .,Tích cực,Tiêu cực,Giảng viên,Giảng viên
+"đề thực_hành khá hay , cô tạo được sự kết_nối giữa giảng_viên và sinh_viên .",Tích cực,Tích cực,Chương trình,Giảng viên
+đề thi của thầy khá hay khi khai_thác thực_tiễn .,Tích cực,Tích cực,Cơ sở vật chất,Chương trình
+"cô quá chất , đi dạy chỉ cần cái điện_thoại .",Tích cực,Tiêu cực,Giảng viên,Giảng viên
+cô hơi hiền .,Tích cực,Trung tính,Giảng viên,Giảng viên
+sẽ có thông_báo đi học_cụ_thể trên phòng máy để sửa_chữa bài_tập cho những_ai chưa hiểu rõ cách làm .,Tích cực,Tiêu cực,Cơ sở vật chất,Cơ sở vật chất
+hay la mắng sinh_viên khi làm bài_tập không đúng .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+"giảng_viên hơi khó , bài_tập hơi nặng đối_với những sinh_viên không chuyên_ngành .",Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+cập_nhật nhiều kiến_thức mới .,Tích cực,Trung tính,Chương trình,Chương trình
+giảng_dạy ngiêm túc .,Tích cực,Trung tính,Giảng viên,Giảng viên
+"phòng máy cũ , nhưng nhìn_chung thì không có ảnh_hưởng gì vì thầy dạy rất nhiệt_tình .",Trung tính,Tiêu cực,Cơ sở vật chất,Cơ sở vật chất
+"giảng_viên ít dạy từ mới , cấu_trúc ngữ_pháp vdotv .",Tích cực,Tiêu cực,Giảng viên,Giảng viên
+tuy_nhiên thường cung_cấp bài_tập trên lớp với thời_gian hạn_hẹp và chấm điểm thiếu công_bằng .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+"thầy giảng khá chậm_rãi , mạch_lạc , dễ tiếp_thu nên có_thể giải_đáp được những khúc_mắc của học_sinh .",Tích cực,Tiêu cực,Giảng viên,Giảng viên
+"giáo_viên cần thông_báo đầy_đủ các vấn_đề sinh_viên cần biết trên moodle , cung_cấp các slide thực_hành trước các buổi thực_hành để sinh_viên tìm_hiểu trước .",Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+"thầy giảng bài ít trong khi kiến_thức rất nhiều , chủ_yếu bảo sinh_viên lên google tìm rồi học , bài_tập thực_hành không đồng_nhất với bài_học lý_thuyết , toàn thực_hành trước cả bài_học .",Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+sinh_viên than_phiền nhiều sau 3 tuần thì mới có giảng_viên khác thay_thế .,Tiêu cực,Tiêu cực,Chương trình,Giảng viên
+"chính vì đặc_thù của môn_học là như_vậy , nên khi code thầy nên quay lại màn_hình cho sinh_viên về xem_lại , thời_gian code lâu , hơn_nữa cho_dù sinh_viên hiểu code nhưng khó để hình_dung các ký_tự một_cách chính_xác .",Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+"sự kiên_nhẫn và tận_tình giảng , chỉ lỗi sai cho sinh_viên khi thực_hành .",Tích cực,Tiêu cực,Giảng viên,Giảng viên
+"nếu có môn_học nào trong học_kỳ tiếp_theo mà thầy giảng_dạy được , mong phòng đào_tạo điều_kiện cho thầy tiếp_tục hướng_dẫn lần sau .",Tích cực,Trung tính,Giảng viên,Giảng viên
+mong cô ở lâu với trường .,Tích cực,Tiêu cực,Giảng viên,Giảng viên
+"thay_vì cho sinh_viên thuyết_trình tất_cả nội_dung môn_học , giáo_viên nên hướng_dẫn nội_dung môn_học và cho sinh_viên tìm_hiểu và thuyết_trình về những nội_dung mới , không nằm trong khung học .",Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+nên có thêm bài_tập giải trực_tiếp trên lớp .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+hoạt_động cho mỗi nhóm lên thuyết_trình về chủ_đề đã được giao .,Trung tính,Trung tính,Giảng viên,Chương trình
+kiến_thức chuyên_môn cao .,Tích cực,Tích cực,Giảng viên,Chương trình
+bài_tập thầy nên sát với đề thi hơn .,Tiêu cực,Tiêu cực,Chương trình,Giảng viên
+tạo được kiến_thức đầu đầy_đủ cho sinh_viên mới vào học bộ_môn này .,Tích cực,Tích cực,Giảng viên,Chương trình
+nói dễ nghe .,Trung tính,Tích cực,Giảng viên,Giảng viên
+nên hạn_chế chửi_mắng sinh_viên .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+do giảng_viên giảng bằng tiếng anh nên với một_số bạn không học tốt anh văn như em thì để hiểu được bài giảng quả là một việc khó_khăn .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+cầu_kỳ .,Trung tính,Tích cực,Khác,Khác
+hy_vọng môn nào cũng như môn này thì quá tốt .,Tích cực,Tiêu cực,Khác,Khác
+giọng nói_khó nghe .,Tiêu cực,Trung tính,Giảng viên,Khác
+tránh giảng vòng_vo và phớt_lờ nội_dung chính của bài_học .,Tiêu cực,Tích cực,Giảng viên,Giảng viên
+"trợ_giảng tận_tình , dễ_chịu , giảng_viên chính hầu_như không có_mặt .",Tích cực,Tiêu cực,Giảng viên,Giảng viên
+dạy rất chi_tiết .,Tích cực,Tích cực,Chương trình,Giảng viên
+"giảng_viên không giới_thiệu về nội_dung học và kiểm_tra ( thi ) , nội_dung kiểm_tra ( thi ) quá dài so với thời_gian làm và phân_bố điểm không phù_hợp .",Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+điều này thiếu ở nhiều bộ_môn khác .,Tiêu cực,Tiêu cực,Chương trình,Khác
+do khi ra trường các công_ty chủ_yếu đánh mạnh phần thực_hành và vận_dụng .,Trung tính,Tiêu cực,Khác,Chương trình
+giáo_viên truyền_đạt kinh_nghiệm thực_tế nhiều .,Trung tính,Tích cực,Giảng viên,Giảng viên
+"xếp nhóm ngẫu_nhiên để sinh_viên thích_nghi với bạn mới , không lệ_thuộc vào một nhóm bạn , tích_cực tương_tác với lớp , không quá nghiêm_khắc gây áp_lực cho sinh_viên , hoà_đồng colonlove .",Tích cực,Tiêu cực,Giảng viên,Giảng viên
+"giảng_viên cần sự dụng máy_chiếu , không nên ghi bảng quá nhiều làm mất thời_gian , bài_tập có_thể đưa lớp trưởng để photo ra , không vần chép lên bảng gây mất thời_gian .",Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+đảm_bảo đủ giờ lên_lớp .,Tích cực,Trung tính,Giảng viên,Giảng viên
+thêm giờ sửa bài_tập các chương sau .,Tiêu cực,Trung tính,Chương trình,Chương trình
+nhanh_nhẹn .,Tích cực,Trung tính,Giảng viên,Khác
+"đôi_khi thầy hay trễ bài_tập trên moodle , và một điều nữa là cả học_kỳ thầy chỉ_điểm danh một lần và nghe các bạn nói là thầy lấy điểm quá_trình vào hôm đó .",Tiêu cực,Trung tính,Giảng viên,Giảng viên
+chúng_em học được rất nhiều điều từ thực_tế thông_qua những câu truyện cô kể .,Tích cực,Tích cực,Chương trình,Khác
+trình_bày vấn_đề một_cách chính_xác và dễ hiểu .,Tích cực,Tích cực,Giảng viên,Khác
+mong cô cải_thiện kỹ_năng trình_bày bảng ạ !,Tiêu cực,Tiêu cực,Giảng viên,Khác
+dễ hiểu xinh gái .,Tích cực,Tích cực,Giảng viên,Khác
+"khi kiểm_tra trên lớp không thông_báo trước , sinh_viên chưa chuẩn_bị bài kỹ .",Tiêu cực,Tiêu cực,Chương trình,Giảng viên
+giảng_viên ôn_tập tập_trung nhiều vào một chủ_đề mà qua nhiều chủ_đề khác .,Tiêu cực,Trung tính,Giảng viên,Giảng viên
+sinh_viên hoang_mang không biết mình đang học những gì .,Tiêu cực,Tiêu cực,Chương trình,Khác
+"cần có phòng học chất_lượng hơn , yên_tĩnh để sinh_viên có_thể tiếp_thu tốt hơn .",Tiêu cực,Tiêu cực,Chương trình,Cơ sở vật chất
+"nên đưa ra một_số bài_tập giải mẫu , nêu lên một_số lỗi thường gặp .",Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+giọng đọc tương_đối giống bản_ngữ và phát_âm tiếng anh khá chuẩn .,Tích cực,Trung tính,Giảng viên,Chương trình
+sử_dụng thời_gian ở lớp hiệu_quả .,Tích cực,Tích cực,Cơ sở vật chất,Giảng viên
+"kéo_dài thời_gian gây ra cảm_xúc "" ức_chế "" cảm_xúc này dẫn đến ảnh_hưởng việc tiếp_thu bài ngay sau đó không hiệu_quả và còn phản_tác_dụng .",Tiêu cực,Tiêu cực,Giảng viên,Khác
+"quan_trọng nhất là việc giảng rất hay quên mà không chịu note lại , trong khi đó sinh_viên đã nhắc nhiều lần , và hay nhớ lung_tung .",Tiêu cực,Tích cực,Giảng viên,Giảng viên
+được đăng trên website môn_học .,Trung tính,Trung tính,Giảng viên,Chương trình
+"kiểm_tra thì cực_kỳ vô_lý , phải làm những bài viết loàng ngoằng chẳng khác gì học_sinh cấp 3 .",Tiêu cực,Tiêu cực,Chương trình,Khác
+"cách dạy sinh_động , không máy_móc .",Tích cực,Tiêu cực,Giảng viên,Giảng viên
+các bài_tập thực_hành và hoạt_động giảng_dạy của thầy đáp_ứng đủ yêu_cầu cơ_bản của môn_học .,Tích cực,Trung tính,Chương trình,Chương trình
+em không liên_hệ được mối quan_hệ giữa chương_trình học theo sách và đề thi .,Tiêu cực,Trung tính,Chương trình,Chương trình
+giảng_viên chưa đi_sâu vào vấn_đề bài_học .,Tích cực,Tiêu cực,Giảng viên,Giảng viên
+sự tận_tình .,Trung tính,Tích cực,Giảng viên,Khác
+"qua hai học_kỳ được học các môn_học do thầy wzjwz110 giảng_dạy , thầy dạy rất được .",Tích cực,Trung tính,Giảng viên,Giảng viên
+"cho nhiều bài_tập , cách hướng_dẫn , tài_liệu kỹ hơn .",Tiêu cực,Tiêu cực,Chương trình,Giảng viên
+vấn_đề không_thể nắm_bắt được hết .,Tiêu cực,Trung tính,Chương trình,Khác
+tổ_chức nhiều hoạt_động nhóm .,Tích cực,Trung tính,Chương trình,Khác
+không làm bài thuyết_trình nhưng vẫn được nộp báo_cáo .,Trung tính,Trung tính,Giảng viên,Chương trình
+chỉ gặp được thầy đúng một lần trong suốt học_kỳ .,Tiêu cực,Trung tính,Giảng viên,Giảng viên
+đây là một môn_học khó nhưng_mà chất_lượng slide bài giảng khá kém .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+thầy kể chuyện hay .,Tích cực,Trung tính,Giảng viên,Giảng viên
+"cách dạy còn hơi gây áp_lực cho sinh_viên khi học , ít bài_tập quá !",Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+he fixes our tasks thoroughly .,Tích cực,Trung tính,Giảng viên,Khác
+được biết thêm nhiều kiến_thức khác ở bên ngoài giúp mở_rộng tầm_mắt .,Tích cực,Tích cực,Khác,Chương trình
+cập_nhật giáo_trình .,Tiêu cực,Trung tính,Chương trình,Chương trình
+"thầy giảng_dạy tốt , đại_học công_nghiệp việt_trì tính , điểm_danh đều_đặn .",Tích cực,Trung tính,Giảng viên,Giảng viên
+"thầy nên cập_nhật một_số slide giảng_dạy ( về virus và mã độc ) , thêm vào các loại công_cụ hiện_thời .",Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+lớp quá đông nên khó tiếp_thu .,Tiêu cực,Tiêu cực,Khác,Chương trình
+bài_tập nhiều và giảng_dạy nhiệt_tình .,Tích cực,Tích cực,Chương trình,Giảng viên
+lên_lớp đều .,Trung tính,Tích cực,Giảng viên,Giảng viên
+một_số lúc .,Trung tính,Trung tính,Khác,Giảng viên
+"tiết học còn nhàm_chán , chưa tạo được hứng_thú .",Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+"lớp_học của thầy luôn thoải_mái và đại_học công_nghiệp việt_trì vẻ , không hề gò_ép , cứng_nhắc như các môn khác .",Tích cực,Tiêu cực,Giảng viên,Khác
+"giảng_viên nhiệt_tình , không lạm_dụng slide , thầy cho sinh_viên tự thảo_luận , làm bài rồi mới sửa .",Tích cực,Tiêu cực,Giảng viên,Giảng viên
+cung_cấp đầy_đủ kiến_thức từng nội_dung bài_học .,Tích cực,Tích cực,Giảng viên,Chương trình
+có_thể làm demo trực_tiếp người ở dưới làm theo .,Tiêu cực,Trung tính,Giảng viên,Chương trình
+không vận dụng thời_gian hợp_lý .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+"bài_tập làm không chắc_chắn , không biết đúng hay sai .",Tiêu cực,Tiêu cực,Chương trình,Khác
+"đối_với cô wzjwz32 , cô rất tận_tình , giải_đáp thắc_mắc và hướng đến sinh_viên cùng trao_đổi đối_với y , hoàn_toàn tách_biệt với sinh_viên , không có hướng trao_đổi mà là hướng tra_khảo kiến_thức sinh_viên .",Trung tính,Tích cực,Giảng viên,Giảng viên
+có ví_dụ rất cụ_thể .,Tích cực,Tích cực,Giảng viên,Chương trình
+dành nhiều thời_gian trên lớp để chép bài lên bảng .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+đôi_khi quá luyên_thuyên các vấn_đề không liên_quan đến môn_học .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+tạm_thời chưa có .,Trung tính,Tiêu cực,Khác,Khác
+rồi về nhà không hiểu gì hết .,Tiêu cực,Tiêu cực,Chương trình,Khác
+phương_pháp đánh_giá kết_quả không hợp_lý với nội_dung đề ra của môn_học .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+nếu yêu_cầu bài_tập thì có_thể nộp giấy riêng cho cô .,Trung tính,Tiêu cực,Chương trình,Chương trình
+hoàn_toàn hài_lòng .,Tích cực,Tích cực,Giảng viên,Khác
+nhiều khi đi muộn .,Tiêu cực,Tiêu cực,Giảng viên,Khác
+"cô rất tốt , không gì không hài_lòng cả .",Tích cực,Tiêu cực,Giảng viên,Khác
+theo em việc học toán trong một giảng_đường quá lớn là rất bất_lợi .,Tiêu cực,Tiêu cực,Chương trình,Khác
+cô cho bài_tập về nhà và có hình_thức ghi tên chép phạt nếu không làm .,Tiêu cực,Trung tính,Giảng viên,Chương trình
+cung_cấp đủ tài_liệu học_tập trên courses .,Tích cực,Tích cực,Giảng viên,Chương trình
+học_hỏi được nhiều kiến_thức .,Tích cực,Trung tính,Giảng viên,Chương trình
+"cần phối_hợp các phương_pháp giảng_dạy khác , giảm số_lượng bài_tập .",Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+dạy hơi chán nhưng chắc tại môn giới_thiệu ngành nó không có nhiều điều để nói lắm .,Tiêu cực,Trung tính,Giảng viên,Chương trình
+thầy dạy hơi khó hiểu nhưng rất kỹ .,Tích cực,Tiêu cực,Giảng viên,Giảng viên
+"slide hay , giáo_viên nhiệt_tình .",Tích cực,Tích cực,Chương trình,Giảng viên
+thầy là idol của em .,Tích cực,Trung tính,Giảng viên,Giảng viên
+"slide bài giảng thì rất dễ hiểu nhưng sau khi thầy giảng thì chúng_em cảm_thấy không hiểu gì cả , cách truyền_đạt của thầy làm cho học_sinh rối_rắm , thầy chưa biết cách truyền_đạt những thứ mà học_sinh cần biết .",Tiêu cực,Tiêu cực,Chương trình,Giảng viên
+cô rất dễ_thương colonlovelove .,Tích cực,Tích cực,Giảng viên,Khác
+"cô cho photo bài_tập quá nhiều , sách toeic cũng sửa không hết nhưng lần nào cũng bắt đi photo tài_liệu khác .",Tiêu cực,Trung tính,Giảng viên,Giảng viên
+lớp buồn không có ý_kiến nhiều .,Tiêu cực,Trung tính,Khác,Khác
+"nhà_trường nên tuyển chon them những giảng_viên có trình_độ cao , phù_hợp với mức kiến_thức của môn_học .",Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+"cá_nhân em nhận thấy cô wzjwz9 đảm_bảo giờ dạy trên lớp , hoàn_thành chương_trình đúng tiến_độ , nhưng phương_pháp sư_phạm của cô chưa được tốt lắm .",Tiêu cực,Trung tính,Giảng viên,Giảng viên
+giáo_trình mới .,Trung tính,Trung tính,Khác,Chương trình
+không_khí căng_thẳng .,Tiêu cực,Tiêu cực,Giảng viên,Khác
+"các phần_mềm sử_dụng phiên_bản quá cũ , nên update để phù_hợp với chương_trình đào_tạo và thực_hành của sinh_viên ở nhà .",Tiêu cực,Tiêu cực,Cơ sở vật chất,Chương trình
+thầy cho bài thực_hành cả sát lý_thuyết lẫn áp_dụng thực_tiễn .,Tích cực,Tích cực,Giảng viên,Chương trình
+phần này khó nên giảng nhiều hơn .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+rất dễ hiểu và tiếp_thu .,Tích cực,Tích cực,Giảng viên,Khác
+trang_bị máy_tính hiện_đại hơn .,Tiêu cực,Trung tính,Cơ sở vật chất,Cơ sở vật chất
+"mới đầu_tiên em nghĩ thầy khó_tính gây áp_lực cho em , thầy cho làm deadline quá_trời mà những lớp khác không có , nhưng đến bây_giờ em mới hiểu nhờ thầy em biết được nhiều dạng bài_tập hơn , thầy thích_hợp dạy môn kiến_trúc máy_tính , nhưng_mà thầy dạy phần_cứng hay hơn ấy ạ .",Tích cực,Tiêu cực,Giảng viên,Giảng viên
+"không nêu rõ thời_gian học lý_thuyết , thời_gian bắt_đầu tiết học lý_thuyết bị thay_đổi mà không báo trước , làm ảnh_hưởng đến nhiều sinh_viên , nhất_là các bạn ở xa .",Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+tôi cảm_nhận được tâm_huyết của thầy .,Tích cực,Trung tính,Giảng viên,Giảng viên
+"thuyết_trình còn hơi buồn_ngủ , chưa hấp dẩn lắm .",Tiêu cực,Tiêu cực,Chương trình,Giảng viên
+"tận_tâm , tận_lực .",Tích cực,Tích cực,Giảng viên,Khác
+học_kỳ 1 khoa wzjwz167 cũng nhận được điểm thi khác trễ .,Tiêu cực,Tiêu cực,Chương trình,Khác
+"giảng_viên có quan_tâm đến sinh_viên , đặc_biệt là những sinh_viên trung_bình , yếu , sắp_xếp lịch để dạy phụ_đạo .",Tích cực,Tiêu cực,Giảng viên,Giảng viên
+cần cho sinh_viên biết mình cần phải học về cái gì .,Tiêu cực,Tiêu cực,Giảng viên,Khác
+rất hài_lòng về giảng_viên .,Tích cực,Tích cực,Giảng viên,Khác
+không ạ .,Trung tính,Tiêu cực,Khác,Khác
+cực_kỳ tận_tâm .,Tích cực,Tích cực,Khác,Giảng viên
+thầy nên cho nhiều ví_dụ hơn .,Tích cực,Tiêu cực,Giảng viên,Giảng viên
+còn nghỉ giữa buổi khá nhiều và làm tốn thời_gian vô_ích .,Tích cực,Tiêu cực,Giảng viên,Chương trình
+chưa nắm chắc căn_bản đã phải làm_quen với nâng cao .,Tiêu cực,Tiêu cực,Giảng viên,Khác
+cung_cấp đầy_đủ giáo_trình .,Tích cực,Tích cực,Giảng viên,Chương trình
+"thầy dạy hay , truyền_đạt tốt , mong phòng công_tác sinh_viên liên_hệ thầy để có phương_pháp chiến_lược dạy số kiến_thức đó nhưng với thời_gian ít hơn , chứ nếu một bài dạy trong một năm thì sinh_viên thế_nào chẳng giỏi .",Tích cực,Tiêu cực,Giảng viên,Giảng viên
+cần đi_sâu vào vấn_đề .,Tiêu cực,Tiêu cực,Chương trình,Khác
+tồi_tệ .,Tiêu cực,Trung tính,Khác,Khác
+cung_cấp đầy_đủ tài_liệu học_tập .,Tích cực,Tích cực,Giảng viên,Chương trình
+cô có nhiều hoạt_động trong lớp_học khiến cho môn_học dễ tiếp_thu hơn .,Tích cực,Tiêu cực,Giảng viên,Giảng viên
+rất ít khi thấy giảng_viên đến phòng thực_hành .,Tiêu cực,Tiêu cực,Giảng viên,Cơ sở vật chất
+"nói hơi nhanh , cho bài_tập thêm hơi khó .",Tích cực,Tiêu cực,Giảng viên,Giảng viên
+slide bài giảng chưa được đưa lên .,Tích cực,Tiêu cực,Chương trình,Chương trình
+cách diễn_đạt của giảng_viên chưa hiệu_quả .,Tiêu cực,Tiêu cực,Chương trình,Giảng viên
+học với tma không phù_hợp với nội_dung môn_học .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+tâm_lý_học_sinh !,Tích cực,Trung tính,Giảng viên,Khác
+"cô nên cho sinh_viên nâng cao kỹ_năng nói nhiều hơn , vì hầu_như vào lớp không được nói nhiều , dẫn đến khâu speaking còn kém quá , có nhiều câu đơn_giản nhưng tụi em sẽ không biết nói như_thế_nào và không biết mình nói đúng hay sai vì không được ai sữa lỗi .",Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+có giáo_trình cho môn_học .,Tích cực,Trung tính,Chương trình,Chương trình
+thực_hành trên lớp .,Trung tính,Tiêu cực,Chương trình,Chương trình
+"có mở_rộng vấn_đề , liên_hệ thực_tế .",Tích cực,Trung tính,Giảng viên,Chương trình
+đồ_án quá khó với sinh_viên năm 3 chưa đủ kiến_thức .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+cho nhiều bài_tập khó cho sinh_viên làm .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+hy_vọng học_kỳ sau có_thể học với cô .,Tích cực,Tiêu cực,Giảng viên,Giảng viên
+"môn_học rất khách_quan , dễ hiểu .",Tích cực,Tích cực,Chương trình,Khác
+"em xin góp_ý là thầy wzjwz95 nên ghi_chép trên bảng ít lại , không nhất_thiết phải ghi hết lý_thuyết căn_bản và nhiều bài_tập cùng chung một dạng ra đầy bảng .",Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+buổi học chỉ dạy một_nửa thời_gian .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+tài_liệu và slide cập_nhật kịp_thời .,Tích cực,Tiêu cực,Chương trình,Chương trình
+với_lại đặc_thù sinh_viên trường em nó khác cô ạ .,Trung tính,Tích cực,Khác,Khác
+quá nhiều kiến_thức cần nắm nhưng thời_gian có_hạn .,Trung tính,Tiêu cực,Chương trình,Chương trình
+chúng_em học gần hết học_kỳ mới đi thực_hành để làm gì nữa chứ .,Tiêu cực,Trung tính,Chương trình,Chương trình
+thầy dạy khá ổn .,Trung tính,Tích cực,Giảng viên,Giảng viên
+thêm nhiều bài_tập hay .,Trung tính,Tích cực,Chương trình,Chương trình
+các bài_tập thực_hành vận_dụng được kiến_thức đã học trên lớp .,Tích cực,Tiêu cực,Chương trình,Chương trình
+có kiến_thức để lập_trình .,Tích cực,Tích cực,Khác,Chương trình
+giúp sinh_viên hiểu được cách kiếm tiền và phát_triển bằng thương_mại_điện_tử một_cách rất thực_tiễn .,Tích cực,Tích cực,Giảng viên,Khác
+thuyết_trình trước lớp bằng tiếng anh theo chủ_đề .,Tích cực,Trung tính,Chương trình,Chương trình
+thảo_luận được nhiều vấn_đề .,Tích cực,Trung tính,Khác,Khác
+em mong cô có_thể đổi_mới phương_pháp để có_thể truyền_cảm hứng học_tập cho sinh_viên chúng_em có động_lực_học tốt hơn .,Tiêu cực,Tích cực,Giảng viên,Giảng viên
+"nhiều sinh_viên chán_nản , thông_báo nghỉ thì muộn , lên trường rồi mới nhận được thông_báo nghỉ học .",Tiêu cực,Tiêu cực,Giảng viên,Khác
+cách thầy giảng_dạy không phù_hợp với em .,Tiêu cực,Trung tính,Giảng viên,Giảng viên
+rất hài_lòng về mọi hoạt_động giảng_dạy .,Tích cực,Trung tính,Giảng viên,Khác
+cô rất dễ_thương colonhihi .,Tích cực,Tích cực,Giảng viên,Khác
+không song_song với kiến_thức được học ở lớp lý_thuyết .,Tích cực,Tiêu cực,Chương trình,Chương trình
+có sử_dụng website môn_học để trao_đổi tài_liệu .,Tích cực,Tiêu cực,Giảng viên,Chương trình
+thường_xuyên đăng slide bài giảng lên hệ_thống moodle .,Tích cực,Trung tính,Giảng viên,Giảng viên
+luôn dạy đúng và đủ số tiết .,Trung tính,Tích cực,Giảng viên,Giảng viên
+thầy không up slide bài giảng lên website môn_học .,Tích cực,Tiêu cực,Giảng viên,Giảng viên
+nhiều bài_tập về nhà .,Tiêu cực,Trung tính,Chương trình,Chương trình
+"chưa đi_sâu vào nội_dung slide , hoạt_động trên lớp thường chỉ làm bài_tập .",Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+"kiến_thức nói thì lung_tung , lan_man , dàn_trải .",Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+giáo_viên phát cho tài_liệu cũ nhiều năm mặc_dù chương_trình giảng_dạy trên lớp lại là tài_liệu mới .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+"nhà_trường biết đấy , khi mình học mà không biết mình học gì , khi mình làm mà không biết mình làm gì thì cũng giống như người mù đi giữa bóng đêm vậy .",Tiêu cực,Trung tính,Chương trình,Khác
+em kiến_nghị thầy điểm thuyết_trình và báo_cáo phải riêng .,Tiêu cực,Trung tính,Giảng viên,Khác
+không có điều gì không hài_lòng .,Tích cực,Trung tính,Khác,Khác
+cho các nhóm lên trình_bày để tránh việc các bạn copy bài trên mạng và không hiểu bài .,Tích cực,Tiêu cực,Giảng viên,Chương trình
+tiết học của thầy rất nhàm_chán .,Tiêu cực,Tích cực,Giảng viên,Giảng viên
+em chỉ đăng_ký học để chuyển điểm nên em không biết .,Trung tính,Tiêu cực,Chương trình,Khác
+"nghiêm_khắc trong khi dạy , kiến_thức chuyên_ngành cao .",Tiêu cực,Tích cực,Giảng viên,Giảng viên
+"em không định_hướng được mình sẽ học gì , khi học thì em không biết ứng_dụng vào thực_tế ra sao .",Tiêu cực,Trung tính,Khác,Khác
+thiếu hướng_dẫn chi_tiết .,Tiêu cực,Tiêu cực,Chương trình,Khác
+không up slide lên moodle để sinh_viên dễ nắm_bắt bài giảng hơn .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+có nhiều phương_pháp giảng_dạy hay và nhiều cách giúp sinh_viên hoàn_thành bài tốt .,Tích cực,Tích cực,Chương trình,Giảng viên
+có nhiều ví_dụ và giải_thích rõ hơn .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+"còn nói_chuyện lan_man , lạc_đề dẫn đến tốn thời_gian .",Tiêu cực,Tiêu cực,Chương trình,Khác
+"thầy dạy có tâm , nhiệt_tình nhưng_mà nói hơi nhanh chút_xíu .",Trung tính,Tiêu cực,Giảng viên,Giảng viên
+kiểm_tra bài_tập về nhà chưa kỹ .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+"slide bài giảng toàn chữ , màu nền xanh pdf làm tất_cả sinh_viên không_thể photo ra đọc .",Tiêu cực,Trung tính,Chương trình,Chương trình
+tuyệt_vời !,Tích cực,Tích cực,Khác,Giảng viên
+"nội_dung truyền_tải chưa sâu , có phần_lớn thời_gian trên lớp giảng_viên chỉ chạy demo .",Tiêu cực,Tiêu cực,Chương trình,Giảng viên
+có sự phối_hợp chặt_chẽ giữa giáo_viên lý_thuyết và thực_hành .,Tích cực,Trung tính,Giảng viên,Chương trình
+sinh_viên khó tiếp_thu kiến_thức .,Tiêu cực,Tiêu cực,Khác,Chương trình
+"cần có một giáo_trình cụ_thể , tập_trung vào một lĩnh_vực .",Tiêu cực,Trung tính,Chương trình,Chương trình
+"tận_tình , không có thời_gian chết .",Tích cực,Tiêu cực,Giảng viên,Cơ sở vật chất
+các bài thực_hành nên bám sát thực_tế và có ứng_dụng thực_tiễn .,Tiêu cực,Tích cực,Chương trình,Chương trình
+"cần có các buổi thực_hành trên phòng lab để sinh_viên tiếp_cận thực_tế với các thiết_bị mạng , áp_dụng kiến_thức về lý_thuyết đã học để thực_hành .",Tiêu cực,Tiêu cực,Giảng viên,Cơ sở vật chất
+môn_học này rất hay và rất khó và rất đáng để học .,Tích cực,Tiêu cực,Chương trình,Chương trình
+"do có nhiều giảng_viên dạy , cách làm bài khác nhau nhưng lại chấm bài chéo , khiến sinh_viên lúng_túng , điểm thi cũng có sự chênh_lệch .",Tiêu cực,Trung tính,Giảng viên,Giảng viên
+quá nhiều .,Tiêu cực,Tiêu cực,Khác,Chương trình
+"lý_thuyết có_lẽ thầy rất hay song về bài_tập có_lẽ hơi mập_mờ về kiến_thức , rất thường nhầm_lẫn .",Tiêu cực,Tích cực,Giảng viên,Giảng viên
+truyền_đạt được nhiều kiến_thức tổng_quát .,Tích cực,Tiêu cực,Giảng viên,Giảng viên
+học thoải_mái không ràng_buộc .,Tích cực,Tiêu cực,Giảng viên,Khác
+bộ kit thực_hành hầu_như tất_cả đã hỏng .,Tiêu cực,Trung tính,Cơ sở vật chất,Chương trình
+các yêu_cầu của môn cần ghi rõ .,Tiêu cực,Tiêu cực,Khác,Chương trình
+"thầy cho các bài thực_hành cần dàn_trải đầy_đủ nội_dung học , đề thi thực_hành dài .",Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+giờ là 2014 rồi !,Trung tính,Tiêu cực,Khác,Giảng viên
+"nhiệt_tình , khá dễ_tính trong việc báo_cáo các lab , có_thể để nhiều lab đến cuối kỳ báo_cáo một lần .",Tích cực,Tiêu cực,Giảng viên,Khác
+cho thảo_luận nhóm khá hay .,Tích cực,Tích cực,Giảng viên,Chương trình
+giáo_viên tạo nhiều cơ_hội cho sinh_viên được luyện nói tiếng anh trên lớp .,Trung tính,Tích cực,Giảng viên,Giảng viên
+"giảng_viên trình_bày các vấn_đề trong môn_học mang tính cập_nhật , chuẩn_xác và có liên_hệ thực_tiễn .",Tích cực,Tích cực,Giảng viên,Chương trình
+"một phần do hoàn_toàn là tiếng anh , và tụi em vẫn chưa thích_nghi kịp .",Tiêu cực,Tiêu cực,Chương trình,Khác
+"nội_dung bài_học đều sát với thực_tế , lý_thuyết dễ hiểu .",Tích cực,Tích cực,Giảng viên,Chương trình
+thà em ở nhà tự học còn tốt hơn là đi nghe đọc slide .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+thầy đã giúp em nâng cao khả_năng lập_trình .,Tích cực,Tích cực,Giảng viên,Khác
+"có khả_năng truyền_đạt , chú_trọng đến kiến_thức hơn điểm_số .",Tích cực,Tiêu cực,Giảng viên,Chương trình
+"cô thân_thiện , nhiệt_tình , nhưng cô nên kể chuyện hay phà trò gì đó một_chút dotdotdot hi_hi .",Tích cực,Trung tính,Giảng viên,Giảng viên
+cho thêm bài_tập và ví_dụ hiểu rõ cách cài_đặt thuật_toán .,Tiêu cực,Trung tính,Giảng viên,Chương trình
+"phương_pháp dạy thực_hành của thầy rất hay , chỉ cho mục_tiêu để thực_hiện , chứ không đưa code , từ đó các sinh_viên có cơ_hội tìm_hiểu chuyên_sâu về các bài thực_hành .",Tích cực,Tiêu cực,Giảng viên,Chương trình
+tổ_chức tham_quan doanh_nghiệp .,Tích cực,Tiêu cực,Chương trình,Chương trình
+giáo_viên năng_động .,Tích cực,Trung tính,Giảng viên,Giảng viên
+chất_lượng tốt không cần cải_tiến .,Tích cực,Tiêu cực,Khác,Khác
+thầy cho bài_tập ví_dụ làm ngay trên giờ học lý_thuyết nên dễ nhớ hơn và nếu có chưa hiểu chỗ nào ngay trên ví_dụ cũng được thầy giải_đáp ngay .,Tích cực,Trung tính,Giảng viên,Giảng viên
+mong thầy giảng_dạy ở những môn tiếp_theo .,Tích cực,Trung tính,Giảng viên,Giảng viên
+nên cho sinh_viên những đề thi thử môn tiếng anh sao cho gần tương_tự trong đề thi thật để kết_quả học_tập nâng cao .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+hậu_quả họ phải chép lẫn nhau .,Tiêu cực,Trung tính,Giảng viên,Khác
+môn_học cần_thiết và thiết_thực với ngành học .,Tiêu cực,Trung tính,Chương trình,Chương trình
+phần thực_hành này học 3 buổi .,Trung tính,Tiêu cực,Chương trình,Chương trình
+cập_nhật nguồn tài_liệu cho sinh_viên .,Tiêu cực,Trung tính,Chương trình,Chương trình
+omg .,Tiêu cực,Trung tính,Khác,Khác
+"có mở_rộng nội_dung giới_thiệu về một_số nền tẳng mới như doubledot blackbery , tizen nền_tảng đa ứng_dụng doubledot phonegap , titanium , zun .",Tích cực,Tiêu cực,Chương trình,Chương trình
+cô đi dạy đúng giờ .,Tích cực,Trung tính,Giảng viên,Giảng viên
+"cho sinh_viên nói với bạn , giao_tiếp tất_cả trong lớp bằng tiếng anh .",Trung tính,Trung tính,Chương trình,Giảng viên
+"em mong những lần sau thầy hãy gom lại những phần xử_lý giống nhau vào một câu thôi , sinh_viên làm được phần này đương_nhiên sẽ làm được phần kia .",Tiêu cực,Trung tính,Giảng viên,Chương trình
+lớp_học ồn .,Tiêu cực,Trung tính,Khác,Khác
+"nhiều bạn trong lớp đã phải mua thêm ram , ổ_cứng để đáp_ứng nhu_cầu .",Tiêu cực,Tiêu cực,Cơ sở vật chất,Chương trình
+"dễ hiểu , biết lắng_nghe ý_kiến sinh_viên , đáp_ứng mọi yêu_cầu của sinh_viên .",Tích cực,Tích cực,Giảng viên,Khác
+lúc đầu có thống_nhất không làm đồ_án nhưng cuối_cùng lại bắt sinh_viên làm đồ_án làm sinh_viên bất_ngờ !,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+giảng_viên hay đi công_tác .,Tiêu cực,Trung tính,Giảng viên,Giảng viên
+"thời_gian lên_lớp đảm_bảo , bám sát yêu_cầu của bài_học .",Tích cực,Trung tính,Chương trình,Chương trình
+"giáo_viên lên_lớp nhưng không giúp sinh_viên hiểu bài và chỉ làm_việc riêng của mình , mặc lớp thực_hành bên dưới .",Tiêu cực,Trung tính,Giảng viên,Giảng viên
+"thầy thường cho bài_tập củng_cố kiến_thức , bài_tập phong_phú , bao_quát kiến_thức lý_thuyết đã học .",Tích cực,Tích cực,Giảng viên,Chương trình
+nên hướng_dẫn cụ_thể và có ví_dụ dễ hiểu cho từng nội_dung môn_học .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+thầy chấm điểm gắt .,Tiêu cực,Trung tính,Giảng viên,Giảng viên
+giảng_viên cần phải giảng và hướng_dẫn thực_hành từng bài_học của mỗi buổi học để sinh_viên hiểu và thực_hành được .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+giao bài_tập về nhà để sinh_viên hoàn_thành và giờ sau lên bảng giải lấy điểm cộng .,Tích cực,Trung tính,Giảng viên,Giảng viên
+làm bài_tập dễ hiểu .,Tích cực,Tích cực,Giảng viên,Chương trình
+"dạy thiên về lý_thuyết nhiều , nên kết_hợp cả lý_thuyết và bài_tập vận_dụng trong cùng một buổi học để sinh_viên dễ_dàng nắm bài .",Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+được trải_nghiệm thực_tế sẽ giúp cho môn_học thêm phần thú_vị và sự thú_vị đó sẽ tạp động_lực cho sinh_viên tự tìm_hiểu sau_này .,Tiêu cực,Tiêu cực,Chương trình,Khác
+"nộp báo_cáo giữa kỳ không có hồi_đáp , đến lúc báo_cáo cuối kỳ thì lại bảo đề_tài các em báo_cáo không được phép chọn , mặc_dù đề_tài có trong danh_sách giảng_viên up lên moodle .",Tiêu cực,Trung tính,Giảng viên,Khác
+"tận_tâm , dễ hiểu .",Tích cực,Tích cực,Giảng viên,Khác
+các bài_tập về nhà và bài_tập kiểm_tra tại lớp giúp tụi em chú_tâm vào học_tập hơn .,Tích cực,Trung tính,Chương trình,Chương trình
+mặt còn không biết thì giảng_dạy cái gì đây .,Tiêu cực,Tiêu cực,Giảng viên,Khác
+giữ nguyên_hình thức cũ !,Trung tính,Tiêu cực,Khác,Chương trình
+điểm_danh vấn_đề đi học thông_qua việc lên sửa bài_tập hơi gắt chút .,Tiêu cực,Trung tính,Chương trình,Giảng viên
+"phát_âm của cô hơi sai , đặc_biệt phần chữ thực_hành .",Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+có nhiều thời_gian hơn để gặp giáo_viên và thực_hành trên lớp .,Trung tính,Tiêu cực,Chương trình,Chương trình
+"giải_thích tất_cả nội_dung mới , nói sơ_lược về nội_dung cũ .",Tích cực,Tiêu cực,Giảng viên,Chương trình
+không dạy lướt và áp_dụng những phần chưa học vào tiết học hiện_tại .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+kỹ_lưỡng .,Tích cực,Tích cực,Khác,Giảng viên
+nên nhiều vấn_đề thầy giảng còn hơi mông_lung khó hiểu .,Tích cực,Tiêu cực,Giảng viên,Giảng viên
+giảng_viên nên tạo ra không_khí đại_học công_nghiệp việt_trì vẻ để sinh_viên có_thể thoải_mái nói bằng tiếng anh .,Tiêu cực,Tích cực,Giảng viên,Giảng viên
+"giảng_viên tận_tình , không_khí giờ học không áp_lực .",Tích cực,Tiêu cực,Giảng viên,Giảng viên
+"sẵn_sàng giảng lại nếu một bạn nào đó không hiểu , nhiều lần cho đến khi bạn hiểu rõ vấn_đề .",Tích cực,Tiêu cực,Giảng viên,Giảng viên
+"viết bài nhiều , học ngoài giờ nhiều .",Tích cực,Tích cực,Giảng viên,Chương trình
+cô nên dạy nội_dung thực_tiễn của nội_dung môn_học với cuộc_sống hơn .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+cập_nhật thông_tin môn_học trên courses .,Tiêu cực,Trung tính,Chương trình,Chương trình
+"em không biết là do giảng_viên hay do bộ_môn phân_bổ cách dạy như_vậy nhưng em hi_vọng chất_lượng sẽ ngày được cải_thiện , chúng_em là sinh_viên học để sau_này đi làm chứ không phải học để qua môn , và tiếng anh lại rất cần_thiết co ngành_nghề của chúng_em .",Tiêu cực,Tiêu cực,Chương trình,Khác
+"môn_học đòi_hỏi máy_tính sinh_viên thực_hành có cấu_hình cao tuy_nhiên , có nhiều sinh_viên không_thể đảm bao điều_kiện .",Tiêu cực,Tiêu cực,Cơ sở vật chất,Chương trình
+nên upload nội_dung học sau mỗi bữa vào module để sinh_viên không đi học bữa đó nắm được mình sẽ cần chuẩn_bị những gì vào buổi sau .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+có nhiều giờ chữa và giải bài_tập hơn_nữa .,Tiêu cực,Tiêu cực,Chương trình,Giảng viên
+"chỉ nên cho làm những bài_tập vừa và ngắn , trong quá_trình làm bài_tập thì giúp_đỡ những sinh_viên chưa hiểu bài , không bỏ ra ngoài .",Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+không được đánh mạnh .,Tiêu cực,Trung tính,Khác,Khác
+"hơi nghiêm quá , nhưng không vấn_đề , rất tốt .",Tích cực,Tiêu cực,Giảng viên,Giảng viên
+em biết_điều này hơi khó nhưng liệu thầy có_thể luyện giọng địa_phương được không ạ .,Tiêu cực,Tiêu cực,Giảng viên,Khác
+có phần thầy nói hơi nhanh .,Tiêu cực,Tiêu cực,Chương trình,Giảng viên
+bài giảng rõ_ràng .,Tích cực,Tích cực,Chương trình,Giảng viên
+làm đồ_án phải báo_cáo mỗi 2 tuần .,Tích cực,Trung tính,Giảng viên,Khác
+không giao bài_tập .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+được nói cặp .,Tích cực,Trung tính,Giảng viên,Khác
+sau mỗi định_lý nên có ví_dụ và chữa chi_tiết ngay .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+phần học lý_thuyết suông .,Tiêu cực,Trung tính,Chương trình,Chương trình
+dạy dài khó hiểu .,Tiêu cực,Tiêu cực,Giảng viên,Khác
+"về cách chấm điểm đồ_án cuối kỳ , giảng_viên hoàn_toàn chấm theo cảm_tính mà không có bất_cứ một thang điểm cụ_thể nào .",Tiêu cực,Trung tính,Giảng viên,Giảng viên
+có nhiều hình_thức giảng_dạy mới giúp sinh_viên tiếp_thu kiến_thức dễ_dàng .,Tích cực,Tích cực,Chương trình,Khác
+đưa ra lịch thự hành các môn trước khi đăng_ký môn_học .,Tiêu cực,Trung tính,Chương trình,Chương trình
+vì thời_gian trong lớp tập_trung hơn .,Trung tính,Tiêu cực,Khác,Chương trình
+"bám quá nhiều vào giáo_trình , cần giảng nhiều hơn các ví_dụ như_vậy sinh_viên mới dễ ứng_dụng .",Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+"cung_cấp kiến_thức bổ_ích , dễ tiếp_thu .",Tích cực,Tích cực,Giảng viên,Chương trình
+còn thiếu bài giảng trên moodle .,Tiêu cực,Tiêu cực,Khác,Chương trình
+sinh_viên dễ cảm_thấy chán và ớn .,Tiêu cực,Tiêu cực,Chương trình,Khác
+"slide bài giảng còn khá nhiều chỗ sai_sót , chưa thống_nhất , rất mong giảng_viên chỉnh_sửa lại .",Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+"có nhiều hoạt_động thiết_thực , cách nói hấp_dẫn .",Tích cực,Trung tính,Giảng viên,Khác
+lớp có 2 giảng_viên hướng_dẫn là cô wzjwz90 và thầy wzjwz91 .,Trung tính,Tích cực,Khác,Giảng viên
+chỉ có việc đọc slide và chấm điểm không giải_thích gì thêm .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+"kiến_thức thu được là con_số 0 , ngao_ngán với bài_tập cách giảng_dạy của giảng_viên .",Tiêu cực,Trung tính,Giảng viên,Giảng viên
+"nhiệt_tình , nghiêm_khắc .",Tích cực,Tích cực,Giảng viên,Khác
+phương_pháp truyền_đạt của cô hơi quan_liêu bao_cấp .,Tiêu cực,Trung tính,Giảng viên,Giảng viên
+"quá nhiều lý_thuyết , ít giải bài_tập .",Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+"em không học thầy này mà sao lại có khảo_sát , em không rõ cho lắm .",Tiêu cực,Trung tính,Khác,Khác
+"trong lúc giải bài_tập cho đến khi giải xong bài_tập , sinh_viên không thế hiểu được tại_sao ra được kết_quả và cũng không biết kết_quả nào là chính_xác để ghi_nhận .",Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+dạy đầy_đủ .,Tích cực,Trung tính,Giảng viên,Giảng viên
+bài giảng hấp_dẫn .,Tích cực,Tích cực,Giảng viên,Chương trình
+ví_dụ của thầy cũng chưa rõ_ràng .,Tích cực,Tiêu cực,Giảng viên,Giảng viên
+điều đó làm tăng áp_lực cho sinh_viên .,Tiêu cực,Tích cực,Khác,Khác
+"có_thể biết được cách quản_lý dữ_liệu , có rất nhiều tài_liệu tham_khảo được giảng_viên cập_nhật .",Tích cực,Tích cực,Giảng viên,Khác
+giảng_viên đưa nhiều bài_tập với mức_độ từ dễ đến khó .,Tích cực,Tiêu cực,Giảng viên,Khác
+đề_cương đầy_đủ .,Tích cực,Trung tính,Chương trình,Chương trình
+dạy_học nhiệt_tình giải nhiều bài_tập khó mà bọn em làm không ra .,Tích cực,Tiêu cực,Giảng viên,Giảng viên
+làm_sao vớt_vát được .,Tiêu cực,Trung tính,Khác,Khác
+"thông_báo bài_tập rất muộn và nhiều thay_vì chia nhỏ và giao bài_tập sớm , khiến sinh_viên bị quá_tải và chịu áp_lực trong việc giải_quyết bài_tập .",Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+cố_chấp .,Tiêu cực,Trung tính,Khác,Khác
+thầy còn hay đi muộn .,Tiêu cực,Tiêu cực,Giảng viên,Khác
+em hầu_như không được gặp cô ạ .,Tiêu cực,Trung tính,Giảng viên,Khác
+tài_liệu cung_cấp cho sinh_viên trên web của trường còn ít .,Tiêu cực,Tiêu cực,Chương trình,Giảng viên
+chưa theo sát chương_trình .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+giáo_viên giảng bài rất hay và thú_vị và truyền_tải được nội_dung môn_học rõ_ràng ý_nghĩa .,Tích cực,Tích cực,Giảng viên,Chương trình
+cứ lo tụi em không hiểu mà dạy đi dạy lại tới khi hiểu rõ vấn_đề mới qua phần mới .,Tích cực,Tiêu cực,Giảng viên,Giảng viên
+giải bài_tập .,Trung tính,Trung tính,Giảng viên,Chương trình
+vì thầy không đến lớp giảng_dạy bữa nào cả nên em không biết nhận_xét .,Trung tính,Tiêu cực,Giảng viên,Giảng viên
+"em được biết đây là kỳ dạy cuối_cùng của thầy nên em chúc thầy sức_khoẻ dồi_dào , gia_đình hạnh_phúc .",Trung tính,Tiêu cực,Giảng viên,Khác
+cho sinh_viên những bài_tập cơ_bản để tìm_hiểu về bài giảng lý_thuyết .,Trung tính,Tiêu cực,Giảng viên,Chương trình
+cô rất hay .,Tích cực,Tích cực,Giảng viên,Khác
+sau mỗi buổi thuyết_trình nên chốt lại vấn_đề đã học được những gì .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+"thầy giảng khá hay , không buồn_ngủ .",Tích cực,Tiêu cực,Giảng viên,Giảng viên
+"thầy dạy hay , hài_hước , không cô_đọng và nhàm_chán .",Tích cực,Tiêu cực,Giảng viên,Giảng viên
+mặc_dù có kiến_thức tốt !,Trung tính,Tích cực,Khác,Chương trình
+"xét điểm quá_trình và giữa kỳ thì lại không công_bằng , chủ cần đứng lên hỏi là có ngay điểm cộng , nhắc_nhở cái sai của thầy là có điểm .",Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+thầy mở_rộng giảng_dạy thêm nhiều ứng_dụng của các kiểu cấu_trúc dữ_liệu .,Tích cực,Trung tính,Giảng viên,Giảng viên
+thao_tác giáo_án điện_tử và các phần_mềm hỗ_trợ nhiều hơn .,Tiêu cực,Tiêu cực,Khác,Chương trình
+"giáo_trình giảng_dạy còn cứng_nhắc , không linh_hoạt với đời_sống thực_tế , xã_hội .",Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+thường_xuyên trao_đổi thông_tin về tình_trạng công_việc hiện_tại và giới_thiệu các doanh_nghiệp phù_hợp khả_năng của sinh_viên .,Tích cực,Tích cực,Giảng viên,Chương trình
+"cô dạy hay và dễ hiểu , đại_học công_nghiệp việt_trì tính , em rất hài_lòng về môn_học do cô wzjwz118 dạy , em xin cảm_ơn .",Tích cực,Tích cực,Giảng viên,Khác
+nhiều ví_dụ được đưa ra để phục_vụ cho bài_học .,Tích cực,Trung tính,Chương trình,Chương trình
+chưa sử_dụng hết thời_gian dạy_học .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+"nhắc_nhở sinh_viên là ý tốt của thầy , nhưng thật_sự tụi em thấy rất áp_lực với môn_học này .",Tiêu cực,Tích cực,Giảng viên,Chương trình
+chúc thầy có một học_kỳ khác thành_công hơn với môn_học hiện_tại .,Tích cực,Trung tính,Giảng viên,Giảng viên
+dễ hiểu đại_học công_nghiệp việt_trì vẻ không_khí lớp thoải_mái .,Tích cực,Tích cực,Giảng viên,Khác
+"cung_cấp đầy_đủ tài_liệu và giáo_trình môn_học , nhiệt_tình , tận_tâm với sinh_viên .",Tích cực,Tích cực,Khác,Chương trình
+làm bài_tập nhóm hiệu_quả .,Tích cực,Trung tính,Giảng viên,Chương trình
+nên cho bài_tập về nhà sau mỗi chương .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+thầy luôn tạo một vẻ bề_ngoài khiến cho sinh_viên căng_thẳng khi học .,Tiêu cực,Tích cực,Giảng viên,Giảng viên
+mặc_dù thầy bận công_tác nhưng vẫn làm video hỗ_trợ tụi em học_tập .,Tích cực,Trung tính,Giảng viên,Giảng viên
+"cung_cấp giáo_trình đầy_đủ , phiên_bản có_thể xem được trên máy_tính pdf hoặc doc .",Tích cực,Tiêu cực,Chương trình,Cơ sở vật chất
+sáng_tạo dễ tiếp_thu .,Tích cực,Tích cực,Giảng viên,Khác
+chỉ cần cho bài_tập qua web môn_học_sinh_viên sẽ làm .,Trung tính,Tiêu cực,Chương trình,Khác
+mỗi ngày đi học kinh_tế đại_cương là một niền đại_học công_nghiệp việt_trì đối_với em !,Tích cực,Tích cực,Chương trình,Khác
+giúp sinh_viên tiếp_thu kiến_thức nhưng không làm nhàm_chán .,Tiêu cực,Trung tính,Giảng viên,Chương trình
+"thầy dạy toàn đọc slide , lúc thì học java lúc thì học di_động học , học tùm_lum không thống_nhất với lớp khác .",Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+"bài_tập thầy cho cũng đòi_hỏi phải đến lớp , nghe giảng và phải hiểu thật_sự mới làm được .",Trung tính,Tiêu cực,Chương trình,Chương trình
+không nên giao bài_tập cho sinh_viên rồi để sinh_viên trên lớp tự làm bài trong một khoảng thời_gian lâu .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+rất mong được thầy dạy tiếp trong các học_kỳ sau .,Tích cực,Trung tính,Giảng viên,Giảng viên
+giảng bài đúng trọng_tâm .,Tích cực,Tích cực,Giảng viên,Chương trình
+số_lượng sinh_viên trên một lớp cần ít hơn .,Tiêu cực,Tiêu cực,Khác,Chương trình
+"sự tận_tình , đúng giờ và nghiêm_túc trong việc học .",Tích cực,Tích cực,Giảng viên,Khác
+thầy dạy ngắn_gọn không lan_man .,Tích cực,Tiêu cực,Giảng viên,Giảng viên
+chỉ cần khoảng 60 % gần tương_ứng với nội_dung thi là đủ .,Trung tính,Tiêu cực,Chương trình,Chương trình
+có 3 vấn_đề tôi không hài_lòng và rất là bức_xúc về giảng_viên .,Tiêu cực,Trung tính,Giảng viên,Khác
+học được nhiều kỹ_năng mới và hay .,Tích cực,Tích cực,Khác,Chương trình
+"em không hài_lòng khi đề thi kết_thúc môn phần thực_hành thầy cho quá khó so với các lớp khác em kiến_nghị doubledot hoặc nâng cao chất_lượng đề thi của tất_cả giảng_viên , hoặc thầy giảm độ khó của thầy lại kính chào và kính gửi .",Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+không up tài_liệu lên moodle .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+"thầy thường chia_sẻ rất nhiều bài viết , nghiên_cứu khoa_học , và các sản_phẩm ứng_dụng mà thầy thực_hiện .",Tích cực,Tiêu cực,Giảng viên,Giảng viên
+tạo động_lực cho học_sinh học_tập .,Tích cực,Tích cực,Chương trình,Giảng viên
+"loa và micro còn gặp nhiều sự_cố trong quá_trình giảng_dạy , đặc_biệt là kỹ_năng nghe .",Tiêu cực,Tiêu cực,Cơ sở vật chất,Giảng viên
+dạy chắc là_hơi nhanh .,Tiêu cực,Trung tính,Giảng viên,Giảng viên
+"thầy tận_tâm , dạy hết tất_cả mọi thứ mà thầy có .",Tích cực,Trung tính,Giảng viên,Giảng viên
+"giáo_viên thực_hành chưa thật_sự giảng_dạy hết_mình , hầu_như để sinh_viên tự nghiên_cứu không_chỉ gì hết !",Tiêu cực,Trung tính,Giảng viên,Giảng viên
+"có_thể trao_đổi thắc_mắc với thầy một_cách thoải_mái , không gây áp_lực .",Tích cực,Tiêu cực,Giảng viên,Giảng viên
+khiến sinh_viên mơ_hồ về môn này .,Tiêu cực,Tiêu cực,Khác,Chương trình
+theo chủ_quan của cá_nhân tôi cô wzjwz248 là người truyền_đạt kiến_thức tốt nhất từ trước tới giờ so với những giảng_viên mà tôi từng biết .,Tích cực,Tiêu cực,Giảng viên,Giảng viên
+cái này vấn_đề chung của cả nước mất rồi colonhihi .,Trung tính,Tiêu cực,Khác,Khác
+thay_đổi phương_thức giảng_dạy cho phù_hợp hơn .,Tiêu cực,Trung tính,Chương trình,Chương trình
+em thật_sự không thích chấm bài bằng máy vì máy luôn có nhưng hạn_chế nhất_định .,Tiêu cực,Tiêu cực,Chương trình,Cơ sở vật chất
+"sinh_động , hoạt_bát , dễ hiểu .",Tích cực,Tích cực,Giảng viên,Khác
+có lời cho công_việc sau_này của mình không .,Tiêu cực,Trung tính,Khác,Khác
+"rất tốt , bám sát môn_học .",Tích cực,Tích cực,Khác,Chương trình
+"hài_lòng nhất là việc rep mail của thầy , cực nhanh trừ thứ_bảy và chủ_nhật thầy giải_lao không rep mail .",Tích cực,Tiêu cực,Giảng viên,Giảng viên
+mức_độ truyền_đạt tốt .,Tích cực,Tích cực,Giảng viên,Khác
+chỉ cần cho bài_tập rồi làm nộp .,Trung tính,Tiêu cực,Chương trình,Chương trình
+giảng hơi nhiều kiến_thức vượt quá phạm_vi môn này .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+tính kỷ_luật cao .,Tích cực,Tích cực,Khác,Chương trình
+không ổn .,Tiêu cực,Trung tính,Khác,Khác
+"sinh_viên xin được vắng do các hoạt_động bên đoàn , hội , chi_bộ nhưng giáo_viên không cho_phép .",Tiêu cực,Trung tính,Giảng viên,Chương trình
+"cách giảng bài bám sát sách nên còn tương_đối dài và tốn nhiều thời_gian , chưa đem lại cái nhìn tổng_quát của bài và bỏ_qua một_số chi_tiết của bài .",Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+giải_đáp thắc_mắc về bài_tập cho sinh_viên qua email nhiệt_tình và nhanh_chóng .,Tích cực,Tích cực,Chương trình,Giảng viên
+"đến với lớp_học của cô wzjwz216 , sinh_viên có_thể tự_nhiên cải_thiện kỹ_năng giao_tiếp của bản_thân .",Tích cực,Tiêu cực,Giảng viên,Giảng viên
+đưa ra các hàm .,Trung tính,Trung tính,Giảng viên,Chương trình
+bắt_đầu giờ học đúng giờ .,Tích cực,Trung tính,Giảng viên,Giảng viên
+"đúng giờ , có bài_tập sau mỗi buổi thực_hành .",Tích cực,Trung tính,Giảng viên,Chương trình
+có nhiều kiến_thức hay ngoài đề_cương .,Tích cực,Tích cực,Giảng viên,Chương trình
+thỉnh_thoảng nhìn thầy em còn cảm_thấy sợ !,Tiêu cực,Trung tính,Giảng viên,Khác
+cách tính điểm chi_tiết .,Tiêu cực,Trung tính,Giảng viên,Khác
+thông_báo nghỉ hơi chậm .,Tiêu cực,Tiêu cực,Chương trình,Giảng viên
+"đại_học công_nghiệp việt_trì tính , tận_tình chỉ dạy , nhưng nhiều nội_dung giảng chưa kỹ và khó hiểu .",Tích cực,Tiêu cực,Giảng viên,Giảng viên
+không sử_dụng moodle để trao_đổi với sinh_viên mà chỉ trao_đổi riêng với nhóm trưởng của các nhóm .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+hy_vọng học_kỳ tiếp_theo được học môn cấu_trúc rời_rạc của thầy .,Tiêu cực,Trung tính,Khác,Chương trình
+"thực_chất thì giảng_viên không làm gì cả ngoài việc cho sinh_viên tìm_hiểu thuyết_trình môn_học và ngồi nghe , không góp_ý_kiến và chốt vấn_đề đạt được và không đạt được của sinh_viên .",Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+cảm_thấy bình_thường .,Trung tính,Trung tính,Giảng viên,Khác
+bài giảng rất dễ hiểu .,Tích cực,Tích cực,Chương trình,Giảng viên
+"môn_học hay , giảng_viên truyền_đạt tốt .",Tích cực,Tích cực,Chương trình,Giảng viên
+em đã rất hài_lòng về thầy rồi .,Tích cực,Tích cực,Giảng viên,Khác
+đó là điều mà em ngưỡng_mộ nhất .,Trung tính,Trung tính,Giảng viên,Khác
+"bổ_sung nhiều bài_tập , hướng_dẫn thảo_luận tại lớp .",Tiêu cực,Trung tính,Chương trình,Chương trình
+cho nhiều bài_tập hơn .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+hài_lòng .,Tích cực,Tích cực,Giảng viên,Khác
+em đóng_góp cũng chỉ mong để sau_này các lớp xử_lý ngôn_ngữ_tự_nhiên đông hơn và nhiều sinh_viên chọn hơn .,Tích cực,Tiêu cực,Chương trình,Chương trình
+cám_ơn thầy wzjwz296 .,Trung tính,Trung tính,Giảng viên,Khác
+nhiều vấn_đề nói chưa rõ .,Tiêu cực,Tiêu cực,Giảng viên,Khác
+giảng_dạy kỹ_lưỡng bài_học .,Tích cực,Trung tính,Giảng viên,Giảng viên
+"cô thường_xuyên bổ_trợ kiến_thức cho sinh_viên về các kỹ_năng nghe , nói đọc viết .",Tích cực,Tích cực,Chương trình,Giảng viên
+thầy dạy có phần nhàm_chán .,Tiêu cực,Trung tính,Giảng viên,Giảng viên
+giáo_viên cần thông_báo cụ_thể các chương thi học_kỳ một_cách cụ_thể hơn giúp cho sinh_viên nắm được thông_tin chích xác khi ôn_tập tránh tình_trạng chỉ tập_trung vào các chương trọng_yếu mà không học các chương còn lại .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+chúng_em phải vất_vả lắm mới có_thể hoàn_thành được .,Tiêu cực,Tiêu cực,Khác,Cơ sở vật chất
+"và thầy cứ chấm từng bạn từng bạn cho đến khi thầy bước đến chấm bài của tôi , lúc đầu tôi cứ nghĩ là thầy cũng sẽ như bao bạn khác chỉ hỏi lý_thuyết và cách áp_dụng vào đồ_án , nhưng không thầy hỏi chính_xác từng đoạn code cái này làm gì cái kia làm gì , và kết_cục chắc các bạn cũng biết rồi , tôi đã tạch môn này .",Tiêu cực,Trung tính,Giảng viên,Giảng viên
+"thầy dạy có tâm , sau mỗi nhóm thuyết_trình thầy sẽ nói lại đề_tài mà nhóm thuyết_trình là gì ?",Tích cực,Trung tính,Giảng viên,Giảng viên
+"giảng_viên thực_hành nhiều bài thực_hành trực_quan , giảng dễ hiểu .",Tiêu cực,Tích cực,Giảng viên,Chương trình
+"dễ hiểu với mọi thể_loại học_sinh yếu , trung_bình , khá .",Tích cực,Tích cực,Giảng viên,Khác
+"cô tập_trung quá nhiều vào việc xây_dựng cơ_sở tri_thức từ anh - vậy , em nghĩ yêu_cầu này sẽ phù_hợp với lớp cô giảng_dạy trực_tiếp vì được gặp cô hàng tuần có_thể dễ_dàng trao_đổi .",Tiêu cực,Tiêu cực,Giảng viên,Khác
+giáo_trình không được đầy_đủ thông_tin .,Tiêu cực,Trung tính,Chương trình,Chương trình
+làm nhiều bài_tập hơn .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+"sinh_viên không học được gì từ giảng_viên , sinh_viên phải tự tìm_tòi .",Tiêu cực,Tiêu cực,Giảng viên,Khác
+giáo_viên thờ_ơ dạy cho có .,Tiêu cực,Trung tính,Giảng viên,Giảng viên
+em chả hiểu gì về môn này .,Tiêu cực,Trung tính,Chương trình,Khác
+"giảng_viên không đưa các tài_liệu lên courses , làm_khó khăn tron việc tìm_kiếm tài_liệu học , nói_chuyện , chém gió ngoài_lề quá nhiều , lan_man .",Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+chắc tại không quen nên giọng của thầy khiến em thật_sự buồn_ngủ .,Tiêu cực,Trung tính,Giảng viên,Khác
+"cần , kiệm , liêm , chính .",Tích cực,Tiêu cực,Khác,Chương trình
+thầy dạy rất đại_học công_nghiệp việt_trì nhưng đôi_khi còn rất khó_tính .,Trung tính,Tích cực,Giảng viên,Giảng viên
+kiến_thức chuyên_môn và nội_dung dạy .,Trung tính,Tích cực,Chương trình,Giảng viên
+nhiều ví_dụ thực_tế .,Tích cực,Tích cực,Giảng viên,Chương trình
+đôi_khi quá nghiêm_khắc .,Tiêu cực,Tiêu cực,Giảng viên,Khác
+"em chỉ dám thỉnh_cầu quý thầy_cô soạn ra một bộ tài_liệu mà có_thể giúp sinh_viên tự nghiên_cứu , học_tập môn này hiệu_quả hơn .",Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+về bài ngữ_pháp trên moodle doubledot giảng_viên chỉ chấm có làm hay không và đếm số bài mà không cần xem nội_dung sinh_viên có làm đúng hay không và không sửa bài ngữ_pháp trên moodle .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+"nhiệt thình , hiền_lành .",Tích cực,Trung tính,Giảng viên,Khác
+cho bài_tập từ dễ tới khó .,Trung tính,Tiêu cực,Chương trình,Chương trình
+"thầy dạy hơi nhiều , nhưng làm bài_tập tốt và sát với đề .",Tích cực,Tiêu cực,Giảng viên,Giảng viên
+thầy nói ít nhưng em hiểu nhiều hơn .,Tích cực,Tiêu cực,Giảng viên,Giảng viên
+em rất thích học cô x .,Tích cực,Tích cực,Giảng viên,Khác
+làm bài_tập khá nhiều .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+tuy_nhiên thầy ít đùa .,Trung tính,Tiêu cực,Giảng viên,Giảng viên
+phòng thực_hành ghế cao quá khiến học_sinh ngồi dễ mỏi lưng .,Tiêu cực,Tiêu cực,Cơ sở vật chất,Khác
+lắng_nghe cách giải_quyết vấn_đề của sinh_viên .,Trung tính,Tích cực,Giảng viên,Giảng viên
+nên cho thực_hành nhiều hơn .,Tích cực,Tiêu cực,Chương trình,Chương trình
+hỗ_trợ sinh_viên làm đồ_án .,Tích cực,Tiêu cực,Giảng viên,Chương trình
+"nên cho sinh_viên tham_gia làm các đề_tài thực_tế , có sự hướng_dẫn của giáo_viên .",Tiêu cực,Tiêu cực,Chương trình,Giảng viên
+mưa cho nghỉ ạ colonsmile .,Tiêu cực,Tiêu cực,Khác,Giảng viên
+quá khó thể tiếp_thu .,Tiêu cực,Tiêu cực,Giảng viên,Khác
+khó hiểu .,Tiêu cực,Tiêu cực,Chương trình,Khác
+"bài_tập thầy cho quá khó , nhưng không sao đề ra như_vậy mới nâng cao trình_độ của tụi em .",Tích cực,Tiêu cực,Chương trình,Giảng viên
+cô xinh .,Tích cực,Tích cực,Giảng viên,Khác
+hay lan_man dạy những thứ không cần_thiết .,Tiêu cực,Tiêu cực,Giảng viên,Khác
+giải_đáp thắc_mắc có_vẻ sai .,Tiêu cực,Trung tính,Giảng viên,Giảng viên
+"bỏ phần thuyết_trình giữa kỳ đi , chẳng ai để_ý cái đó cả !",Tiêu cực,Trung tính,Chương trình,Khác
+"giảng_viên không đảm_bảo giờ lên_lớp , không lên_lớp giảng_dạy .",Tiêu cực,Trung tính,Giảng viên,Giảng viên
+"nếu được vậy thì sinh_viên có_thể hỏi trực_tiếp giảng_viên thực_hành chứ em thấy mấy cái phòng máy chỉ mở_cửa khi có giờ thực_hành , rồi sinh_viên phải vào chờ giảng_viên .",Tiêu cực,Tiêu cực,Giảng viên,Cơ sở vật chất
+thầy có kiến_thức nhưng không được dạy đúng môn điểm mạnh .,Tiêu cực,Trung tính,Giảng viên,Giảng viên
+năng_động .,Tích cực,Trung tính,Khác,Giảng viên
+giảng_viên đến lớp sớm .,Tích cực,Tiêu cực,Giảng viên,Giảng viên
+she ' s very sociable .,Tích cực,Tích cực,Giảng viên,Khác
+kiến_thức tổng_hợp .,Trung tính,Trung tính,Khác,Chương trình
+khả_năng tư_duy được nâng cao .,Tích cực,Trung tính,Khác,Chương trình
+cô cho quá nhiều bài_tập fraction đồ_án đến_nỗi em nghĩ rằng kỳ vừa_rồi mình chỉ học một môn này .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+thầy rất nhiệt_tình nên em không có ý_kiến gì .,Tích cực,Tiêu cực,Giảng viên,Giảng viên
+"chất_lượng môn tốt , em không ý_kiến .",Tích cực,Tiêu cực,Chương trình,Khác
+odoo quá khó .,Tiêu cực,Tiêu cực,Chương trình,Khác
+chú_thích những phần cần phải tập_trung .,Trung tính,Tiêu cực,Khác,Chương trình
+"có kết hơp ví_dụ , giải bài_tập trên lớp , hài_lòng !",Tích cực,Trung tính,Giảng viên,Chương trình
+các hoạt_động chưa đại_học công_nghiệp việt_trì .,Tiêu cực,Tiêu cực,Chương trình,Giảng viên
+không biết gì sau khi học môn này .,Tiêu cực,Trung tính,Chương trình,Khác
+cô cho làm đồ_án nhóm với_lại cho bài_tập theo từng tuần nên sinh_viên có thời_gian sắp_xếp để làm bài .,Trung tính,Tiêu cực,Giảng viên,Chương trình
+tài_liệu tìm_kiếm còn hạn_chế .,Tiêu cực,Tiêu cực,Chương trình,Khác
+tập_trung thực_hành kiến_thức trọng_tâm của giờ ký thuyết .,Trung tính,Trung tính,Giảng viên,Chương trình
+môn_học chỉ nên có một giảng_viên đứng_lớp để đảm_bảo tính liên_tục cho bài_học .,Tiêu cực,Tiêu cực,Chương trình,Giảng viên
+"cũng như bao đứa sinh_viên khác bước vào phòng báo_cáo đồ_án , tôi cảm_thấy rất hồi_hộp và lo_sợ bởi lẽ đồ_án lần này tôi không thật_sự code 100 % , tôi tham_khảo nó từ internet và thay_đổi một_vài thứ để hoàn_chỉnh và chờ đến ngày báo_cáo .",Tiêu cực,Trung tính,Chương trình,Khác
+ngôn_ngữ dùng để thuyết_trình bài_học còn hơi khó nghe được vì giảng_viên giảng bài bằng tiếng anh .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+"dạy liên_hệ thực_tế , giảng dễ hiểu .",Tiêu cực,Tích cực,Giảng viên,Giảng viên
+wzjwz217 là thầy nào ?,Tiêu cực,Trung tính,Khác,Giảng viên
+"cần có một phương_pháp giảng khác , chúng_em là sinh_viên chứ không phải là những người đi làm .",Tiêu cực,Tiêu cực,Chương trình,Khác
+có_thể kết_hợp môn này với môn toán nhằm giúp sinh_viên có_thể mới vào trường dễ nhận thấy cách tính các độ phức_tạp .,Tiêu cực,Tiêu cực,Chương trình,Khác
+cô hiền .,Tích cực,Trung tính,Giảng viên,Giảng viên
+"dạy lan_man , lên_lớp chỉ cố_gắng đọc một cái slide cho hết giờ , kiến_thức chưa dạy thì đã có trong đề thi .",Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+"thầy dạy chú_trọng trọng_tâm , cơ_bản của môn_học .",Tích cực,Tiêu cực,Giảng viên,Giảng viên
+toàn ngồi nói_chuyện chả có thực_hành gì .,Tiêu cực,Tiêu cực,Giảng viên,Khác
+thực_tiễn tốt .,Tích cực,Tích cực,Chương trình,Khác
+có nhiều kinh_nghiệm cũng như trải_nghiệm tốt qua môn_học này .,Tích cực,Tích cực,Giảng viên,Khác
+"thầy nội_dung dạy rất đơn_giản , không đáng được xem là một môn_học .",Tiêu cực,Trung tính,Giảng viên,Giảng viên
+hướng_dẫn rõ_ràng dễ hiểu .,Tích cực,Tích cực,Giảng viên,Khác
+môn công_nghệ web và ứng_dụng có 2 tín_chỉ lý_thuyết .,Trung tính,Trung tính,Chương trình,Khác
+không thông_báo các buổi thực_hành .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+"đồ_án cuối kỳ của em được giảng_viên xem_xét và góp_ý chỉ sửa duy_nhất một lỗi là hoàn_thiện khi báo_cáo trong năm_học , nhưng đến cuối kỳ giảng_viên lại cố_gắng tìm ra lỗi khác để cho sinh_viên rớt môn .",Tiêu cực,Trung tính,Giảng viên,Giảng viên
+sâu_sắc việc_làm bài của sinh_viên .,Tích cực,Tích cực,Giảng viên,Chương trình
+đi trễ .,Tiêu cực,Tiêu cực,Giảng viên,Khác
+"môn cơ_chế mã độc là môn rất hay , rất cần_thiết .",Tích cực,Tích cực,Chương trình,Khác
+"em cảm_ơn cô vì sự nhiệt_tình , tận_tâm .",Tích cực,Tích cực,Giảng viên,Khác
+"tuy em ít đến lớp nhưng có bài khó hiểu em email hỏi thầy , thầy giải_đáp rất tận_tình , còn có demo nữa .",Tích cực,Tiêu cực,Giảng viên,Giảng viên
+cô dễ_tính và khá đại_học công_nghiệp việt_trì vẻ .,Tích cực,Tích cực,Giảng viên,Khác
+bài thực_hành nên mang tính_chất bắt_buộc hoặc khuyến_khích sinh_viên làm để lấy điểm cộng để tạo động_lực cũng như hứng_thú với bài thực_hành hơn .,Tích cực,Tiêu cực,Khác,Chương trình
+"nhưng em góp_ý là , nếu có trường_hợp đó thì thầy thực_hành nên giảng sơ qua trước khi làm .",Tiêu cực,Trung tính,Giảng viên,Giảng viên
+"đánh_giá kết_quả học_tập chính_xác , công_tâm .",Tích cực,Tiêu cực,Giảng viên,Khác
+hỏi thầy những kiến_thức bên ngoài có liên_quan tới môn_học nhiều khi thầy không trả_lời .,Tiêu cực,Tích cực,Giảng viên,Giảng viên
+nội_dung .,Trung tính,Tiêu cực,Chương trình,Chương trình
+"giảng_viên thân_thiện , cởi_mở , linh_hoạt trong việc xin nghỉ fraction bù .",Tích cực,Tiêu cực,Giảng viên,Giảng viên
+cơ_sở vật_chất .,Trung tính,Tiêu cực,Cơ sở vật chất,Cơ sở vật chất
+"giảng_viên cần đưa ra ví_dụ cụ_thể để cho sinh_viên được hiểu có_thể kèm lấy mấy bài thực_hành mô_phỏng cho sinh_viên xem để sinh_viên được chứng_kiến , như_thế sẽ dễ hiểu bài hơn .",Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+"thầy dạy nhiệt_tình , bài_tập tương_đối thoải_mái nên môn_học này là môn niềm đại_học công_nghiệp việt_trì chứ không phải là gánh nặng .",Tích cực,Tiêu cực,Giảng viên,Chương trình
+tôi hài_lòng .,Tích cực,Trung tính,Khác,Khác
+nên tăng_cường thời_gian tiếp_xúc các thiết_bị thực_tế .,Tiêu cực,Tiêu cực,Chương trình,Cơ sở vật chất
+phần lý_thuyết trên lớp mức_độ kiến_thức quá chênh_lệch với đề thi .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+chương_trình dễ hiểu .,Tích cực,Tích cực,Giảng viên,Chương trình
+không hài_lòng tất_cả .,Tiêu cực,Trung tính,Khác,Khác
+chuẩn_bị nội_dung thực_hành chu_đáo .,Tích cực,Tiêu cực,Giảng viên,Chương trình
+nhiều ví_dụ .,Trung tính,Trung tính,Giảng viên,Chương trình
+"thầy giảng nhiệt_tình , sát trọng_tâm , dễ hiểu , mong thầy kỳ sau sẽ dạy môn xác xuất thống_kê .",Trung tính,Tích cực,Giảng viên,Giảng viên
+"thưa , em hoàn_toàn hài_lòng với chất_lượng các buổi học của thầy và những kiến_thức thầy mang lại thực_sự bổ_ích và phong_phú .",Tích cực,Tích cực,Chương trình,Giảng viên
+"sinh_động nhưng không lan_man , rất tập_trung chuyên_môn .",Tích cực,Tiêu cực,Giảng viên,Khác
+"sử_dụng giờ lên_lớp không hiệu_quả , chỉ dịch slide và không nêu được ý_nghĩa các phần .",Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+"cả 3 , 4 buổi thực_hành theo hình_thức 2 môn này có thầy thầy này tham_gia hay hường dẫn buổi nào đâu mà đánh_giá , chỉ có mỗi thầy wzjwz100 thôi .",Tiêu cực,Tiêu cực,Khác,Giảng viên
+đi_sâu vào vấn_đề khó hơn .,Tích cực,Tiêu cực,Khác,Khác
+chi_tiết .,Trung tính,Tích cực,Chương trình,Khác
+đồng_nhất một giáo_trình giảng_dạy .,Tiêu cực,Trung tính,Chương trình,Chương trình
+phần ý_kiến của em trong phần khảo_sát thầy wzjwz7 em nói có liên_quan đến thầy luôn .,Trung tính,Tích cực,Khác,Giảng viên
+nên đăng lên điểm thực_hành hằng tuần để sinh_viên tiện theo_dõi .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+nên sử_dụng tiếng việt vì đa_phần không giỏi tiếng anh .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+"tuy lên_lớp nhưng em không_thể tiếp_thu được , vì không có hứng_thú với cách giảng_dạy của thầy .",Tiêu cực,Trung tính,Giảng viên,Giảng viên
+nên có ngoại_khoá .,Tiêu cực,Tiêu cực,Chương trình,Khác
+tỉ_mỉ .,Tích cực,Tích cực,Khác,Giảng viên
+chỉ hướng_dẫn sử_dụng access không hướng_dẫn sử_dụng database sql .,Tiêu cực,Tiêu cực,Chương trình,Giảng viên
+trong bài thi có phần không được học trong chương_trình học của môn_học .,Tiêu cực,Trung tính,Chương trình,Chương trình
+chỉ sơ_sài rồi bắt sinh_viên tự mò .,Tiêu cực,Tiêu cực,Giảng viên,Khác
+nộp deadline bất_chợt .,Tiêu cực,Trung tính,Giảng viên,Chương trình
+"nhẹ_nhàng , từ_tốn .",Tích cực,Trung tính,Giảng viên,Khác
+nhiều chỗ đọc mãi vẫn không_thể hiểu .,Tiêu cực,Trung tính,Giảng viên,Khác
+"về phần chấm bài thuyết_trình doubledot giảng_viên không chú_ý chấm bài thuyết_trình và xem sinh_viên thuyết_trình để chấm điểm mà cứ làm_việc riêng khác , có khi không biết bạn kia trình_bày rồi hay chưa .",Tiêu cực,Trung tính,Giảng viên,Giảng viên
+"cách dạy , giọng nói buồn_ngủ , không truyền_đạt hết được kiến_thức .",Tiêu cực,Trung tính,Giảng viên,Giảng viên
+"một_số chỗ khó hiểu , nhưng nếu chăm_chỉ tự học thì sẽ khắc_phục được .",Trung tính,Tiêu cực,Chương trình,Khác
+"trong khi đó sinh_viên phải làm đồ_án môn_học , mọi vấn_đề gặp phải nếu chờ 3 tuần để được gặp giảng_viên giải_đáp thì sinh_viên không_thể hoàn_thành đúng tiến_độ .",Tiêu cực,Trung tính,Giảng viên,Khác
+"bài_tập thầy đưa ra cho lớp hơi khó , nhưng quá đó giúp chúng_em rèn_luyện tư_duy thuật_toán .",Tiêu cực,Trung tính,Chương trình,Giảng viên
+hy_vọng đây không phải là sinh_viên đầu_tiên phản_ánh vấn_đề này .,Tiêu cực,Trung tính,Khác,Khác
+"rất đúng giờ , giờ học đầy_đủ và đầy_đủ những gì có trong sách .",Tích cực,Tích cực,Giảng viên,Chương trình
+cập_nhật thêm những cấu_trúc lập_trình mới !,Tiêu cực,Tiêu cực,Chương trình,Khác
+lab nhiều nhưng chưa rõ_ràng .,Tiêu cực,Tiêu cực,Chương trình,Giảng viên
+"nội_dung , kiến_thức khá chung_chung .",Tiêu cực,Tích cực,Chương trình,Chương trình
+thầy dạt rất tốt .,Tích cực,Tích cực,Giảng viên,Khác
+không có nội_dung thực_hành của môn_học này .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+lớp bóng_chuyền nhưng lại bị bắt tập_thể_lực khá nhiều .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+giúp học_sinh hiểu bài tốt .,Tích cực,Tích cực,Giảng viên,Khác
+thầy giảng đủ nội_dung bài_học và có chỗ lưu_ý .,Tích cực,Trung tính,Giảng viên,Giảng viên
+ghi hơi nhiều .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+sinh_viên học xong có_thể làm bài kiểm_tra tốt nhưng đa_số không_thể giao_tiếp cơ_bản bằng tiếng anh .,Tiêu cực,Trung tính,Chương trình,Chương trình
+dùng hệ_thống nộp bài_tập turnitindotcom với quy_định tỉ_lệ sao_chép không quá 30 % không phù_hợp !,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+cám_ơn thầy đã giúp_đỡ em .,Trung tính,Trung tính,Giảng viên,Khác
+chăm_chú bài_tập .,Trung tính,Trung tính,Giảng viên,Chương trình
+cô sẵn_sàng giảng lại bài cho cả lớp khi có phần khó hiểu .,Tích cực,Tiêu cực,Giảng viên,Giảng viên
+em rất hài_lòng với cách_thức giảng_dạy của giảng_viên cũng như cách_thức ra bài_tập cho sinh_viên .,Tích cực,Trung tính,Giảng viên,Giảng viên
+"chia_sẻ các kỹ_năng khi làm_việc , chia_sẻ kinh_nghiệm trong ngành , thậm_chí chỉ cách mua linh_kiện mà không bị chặt chém giá_cả .",Tích cực,Tiêu cực,Giảng viên,Chương trình
+giảng_viên không có cách giải_quyết gì mà vẫn cho làm bài_tập nộp tại_chỗ như bình_thường .,Tiêu cực,Trung tính,Giảng viên,Giảng viên
+cần có giáo_trình chi_tiết về môn_học cho sinh_viên dễ nắm_bắt .,Tích cực,Tiêu cực,Chương trình,Chương trình
+chỉ có 1 điểm em không hài_lòng đó là đề thi cuối kỳ vô_cùng dài .,Tiêu cực,Trung tính,Chương trình,Khác
+lớp của em do đa_số các bạn trầm tính nên đối_với bọn em cô là một người rất giỏi và giải_đáp đầy_đủ cho bọn em .,Tích cực,Tiêu cực,Giảng viên,Khác
+khá nhiệt_tình .,Tích cực,Tích cực,Khác,Giảng viên
+kiến_thức hay và sự tận_tâm của giảng_viên .,Tích cực,Tích cực,Chương trình,Giảng viên
+"đồ_án cũng rất mơ_hồ , không thực_tế .",Tiêu cực,Tiêu cực,Chương trình,Khác
+sự tận_tình với học_viên .,Tích cực,Tích cực,Giảng viên,Khác
+giảng_viên chia thành nhiều nhóm để sinh_viên thảo_luận có hiệu_quả .,Tiêu cực,Tích cực,Giảng viên,Giảng viên
+quá kém .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+"cho thảo_luận , làm seminar .",Tích cực,Trung tính,Giảng viên,Chương trình
+bơi rất đại_học công_nghiệp việt_trì .,Tích cực,Tích cực,Khác,Giảng viên
+"ít gì thì mình là người trẻ , năng_động xíu đi , chứ đừng ngồi chỗ .",Tiêu cực,Tiêu cực,Giảng viên,Khác
+"sau khi làm xong các project của thầy thì thấy level mình tăng lên hẳn , rất quý thầy và gặp lại ở các môn sau .",Tích cực,Tiêu cực,Giảng viên,Giảng viên
+thay_vì đưa bài ra rồi bảo các bạn nộp kết_quả .,Trung tính,Tiêu cực,Chương trình,Chương trình
+hầu_hết sinh_viên đều ngủ_gật trong lớp .,Tiêu cực,Tích cực,Khác,Giảng viên
+chấm điểm trên khmtdotuitdotedudotvn .,Trung tính,Trung tính,Giảng viên,Khác
+trung_bình .,Trung tính,Trung tính,Khác,Chương trình
+nghỉ sinh em bé đại_học công_nghiệp việt_trì vẻ nha cô .,Trung tính,Tích cực,Giảng viên,Giảng viên
+thầy nên giảng bài nhanh hơn để sinh_viên có_thể thực_hành tốt hơn vì lý_thuyết chưa kịp chương_trình thực_hành .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+"thầy tích_cực lên_lớp , không nghỉ buổi nào .",Tích cực,Tiêu cực,Giảng viên,Giảng viên
+chắc kiến_thức cho sinh_viên nếu mất nền_tảng .,Tích cực,Trung tính,Giảng viên,Chương trình
+tài_liệu cực_kỳ dễ hiểu .,Tích cực,Tích cực,Chương trình,Khác
+"cô xinh_đẹp , dễ_thương colonsmile .",Tích cực,Tích cực,Giảng viên,Khác
+hơi bắt_bẻ .,Tiêu cực,Tiêu cực,Giảng viên,Khác
+cô nên tập_trung vào việc giảng_dạy hơn là dành 5 - 15 phút để hỏi từng từ tiếng anh trong slide .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+thương xuyên chỉ_dẫn trên moodle .,Tích cực,Tích cực,Giảng viên,Khác
+rèn_luyện nhiều khả_năng nói tiếng anh cho sinh_viên .,Tích cực,Tích cực,Chương trình,Giảng viên
+đôi_lúc hơi sợ .,Tiêu cực,Trung tính,Khác,Giảng viên
+"tốt , có sự ủng_hộ , giúp_đỡ cao .",Tích cực,Tích cực,Giảng viên,Khác
+em không hiểu sao chương_trình chất_lượng cao mà_lại cho bọn em học phòng kém hiệu_quả như_vậy .,Tiêu cực,Tiêu cực,Chương trình,Cơ sở vật chất
+đề_nghị là cho sinh_viên tuần nào cũng học hoặc sắp_xếp như_thế_nào để sinh_viên không phải bị mất bài vì lý_do học cách tuần trong khi đó bài mới thì liên_tục em cảm_ơn .,Tiêu cực,Tiêu cực,Chương trình,Cơ sở vật chất
+khó nghe trong việc giao_tiếp ngôn_ngữ .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+cho ví_dụ ngay sau lý_thuyết giúp dễ tiếp_thu .,Tích cực,Tích cực,Giảng viên,Chương trình
+cập_nhật cái mới cho sinh_viên .,Tích cực,Trung tính,Giảng viên,Chương trình
+dẫn ít ví_dụ .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+còn điều không thích nhất vẫn giống cái kia thôi .,Tiêu cực,Trung tính,Chương trình,Khác
+học để làm_gì !,Tiêu cực,Tiêu cực,Khác,Chương trình
+môn giải_tích là một môn khô_khan nhưng cô wzjwz261 dạy rất dễ hiểu .,Tích cực,Trung tính,Giảng viên,Chương trình
+ít kiểm_tra trên lớp .,Tiêu cực,Tiêu cực,Giảng viên,Khác
+giảng_dạy đầy_đủ .,Tích cực,Trung tính,Giảng viên,Giảng viên
+dạy kỹ các phần quan_trọng .,Trung tính,Tích cực,Chương trình,Giảng viên
+em hy_vọng thầy sẽ cho nhiều bài_tập hơn .,Tiêu cực,Trung tính,Giảng viên,Giảng viên
+các thành_viên khác chịu_thua .,Tiêu cực,Trung tính,Giảng viên,Khác
+"nhìn_chung em hài_lòng về môn_học này , nên em không có ý_kiến khác .",Tích cực,Trung tính,Chương trình,Khác
+cho bài_tập làm nhiều hơn điểm_danh lấy điểm 5 - 10 % cho bài kiểm_tra trên lớp nhiều hơn .,Tiêu cực,Trung tính,Chương trình,Chương trình
+em hoàn_toàn hài_lòng về phương_pháp giảng_dạy này .,Tích cực,Trung tính,Giảng viên,Giảng viên
+"em nghĩ thầy nên bổ_sung hình_vẽ vào slide bài giảng , hoặc ít_nhất trong lúc giảng thầy rời ghế và vẽ lên bảng cho sinh_viên dễ hình_dung .",Tiêu cực,Tiêu cực,Chương trình,Giảng viên
+có lúc em còn cảm_thấy có lỗi vì công_sức của cô trên lớp như_vậy mà mình lại làm_biếng học bài .,Trung tính,Trung tính,Giảng viên,Khác
+cần hướng_dẫn phương_pháp lập_trình rõ hơn_nữa với đồ_án code multiagent .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+đáng để học_tập .,Tích cực,Tiêu cực,Khác,Chương trình
+"nên cho ví_dụ nhiều , dễ liên_tưởng và giải_thích rõ .",Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+"thầy dạy hơi tổng_quát nhưng lại đòi_hỏi cao về kiến_thức cũng như đồ_án , kính mong nhà_trường xem_xét lại môn_học này ạ , em xin cảm_ơn !",Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+"phòng học còn nóng và bụi_bặm , máy_chiếu tuy vẫn nhìn được nhưng như thế là mờ , ngồi xa hay hôm nào trời sáng quá sẽ khó thấy , việc chia hay phân_công đề_tài giảng_viên cần tự làm thay_vì giao cho lớp trưởng lúc đó sẽ không khách_quan nữa vì có sự thiên_vị giành_giật .",Tiêu cực,Tiêu cực,Cơ sở vật chất,Chương trình
+"cô viết trên bảng không_những chữ quá nhỏ mà_còn quá lộn_xộn , bảng lúc_nào cũng lem_nhem , thực_sự sinh_viên ngồi dưới nhìn lên bảng là chóng_mặt , không_thể theo giỏi được gì cả !",Tiêu cực,Tiêu cực,Giảng viên,Khác
+"cho làm các bài kiểm_tra cuối giờ , giúp chúng_em phải tập_trung nghe bài .",Tích cực,Trung tính,Chương trình,Chương trình
+"giảng_dạy kiến_thức còn mơ_hồ , không nhất_quán được kiến_thức , kiến_thức , bài_tập làm còn mơ_hồ , không giải_thích được hết .",Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+hy_vọng không gặp lại thầy ở kỳ sau colonsmile .,Tiêu cực,Trung tính,Giảng viên,Giảng viên
+"những bạn không chịu học và lơ_là từ trước giờ vẫn qua hai môn của thầy một_cách dễ_dàng và thậm_chí còn đạt được điểm_cao , do đề cơ_bản và còn được sử_dụng tài_liệu , laptop .",Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+"sửa bài_tập khó , giảng_viên nhiệt_tình .",Tích cực,Tiêu cực,Khác,Giảng viên
+quy_tắc .,Trung tính,Trung tính,Giảng viên,Khác
+"chào quý thầy_cô , phương_pháp học_tập mới cdio em cảm_thấy được áp_dụng không hợp_lý , ví_dụ tuần này thầy wzjwz39 đang dạy vấn_đề đó , do kiến_thức còn nhiều nên sinh_viên chưa nắm , đến tuần sau thầy toàn vào lại dạy một kiến_thức hoàn_toàn khác .",Tiêu cực,Tiêu cực,Khác,Giảng viên
+"mặt_khác rất thân_thiện với sinh_viên , tạo thiện_cảm tốt_đẹp nên sinh_viên tự_khắc đi học đầy_đủ mà không cần phương_pháp điểm_danh ép_buộc cổ_hủ .",Tích cực,Tiêu cực,Giảng viên,Chương trình
+"có tương_tác với sinh_viên , thường_xuyên cho lên bảng làm bài .",Tích cực,Trung tính,Giảng viên,Giảng viên
+cần có giờ ra chơi giữa giờ vì học liên_tục năm tiết đôi_khi khiến sinh_viên mệt mà khó tiếp_thu bài giảng .,Tiêu cực,Tiêu cực,Khác,Chương trình
+"phải hướng_dẫn cách thực_hành cho sinh_viên , hỗ_trợ sinh_viên khi làm thực_hành , thái_độ cần thân_thiện .",Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+cô rất tận_tình trong việc củng_cố kiến_thức .,Tích cực,Tích cực,Chương trình,Giảng viên
+giảng_viên cần chỉ cụ_thể cách thực_hiện bài thực_hành .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+cần cho thêm nhiều bài_tập về nhà .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+em học được nhiều thứ từ môn này ạ colonlove .,Tích cực,Trung tính,Chương trình,Khác
+"sử_dụng thời_gian lên_lớp không hiệu_quả , khâu chuẩn_bị nội_dung chưa tốt .",Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+em chưa nhớ thầy là ai nữa .,Trung tính,Tiêu cực,Giảng viên,Giảng viên
+hoạt_động nhóm .,Trung tính,Trung tính,Khác,Chương trình
+cô hãy tự chấm bài thi .,Tiêu cực,Trung tính,Giảng viên,Giảng viên
+em rất hài_lòng với môn_học này .,Tích cực,Tích cực,Chương trình,Khác
+cách mà thầy giảng bài khiến cho sinh_viên không thấy chán trong giờ học !,Tích cực,Tiêu cực,Giảng viên,Giảng viên
+trang_bị máy_tính tốt hơn .,Tiêu cực,Trung tính,Cơ sở vật chất,Cơ sở vật chất
+đáng để học_hỏi !,Tích cực,Trung tính,Khác,Khác
+"nhiệt_tình , dễ hiểu , dễ_thương .",Tích cực,Tích cực,Giảng viên,Khác
+dựa vào một game cơ_bản để sinh_viên hiểu rõ hơn .,Trung tính,Tiêu cực,Giảng viên,Chương trình
+"cô nhiệt_tình , dạy có tâm .",Tích cực,Tích cực,Chương trình,Giảng viên
+"có hoạt_động trò_chơi , hát tiếng anh .",Trung tính,Trung tính,Giảng viên,Khác
+em fraction tôi nhận thấy phương_pháp giảng_dạy của giảng_viên không phù_hợp để nâng cao trình_độ thực của sinh_viên học_vẹt 60 % .,Tiêu cực,Trung tính,Giảng viên,Khác
+định_hướng_từ sớm về cách tiếp_cận đồ_án đối_với sinh_viên .,Tiêu cực,Tiêu cực,Chương trình,Giảng viên
+em xin cảm_ơn thầy .,Trung tính,Trung tính,Giảng viên,Khác
+cách chấm điểm giữa các nhóm chưa được công_bằng .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+lớp_học sôi_động .,Tích cực,Tiêu cực,Chương trình,Khác
+đến lớp đúng giờ !,Tích cực,Tích cực,Chương trình,Giảng viên
+không dặn_dò các học_sinh thi các phần_nào .,Tiêu cực,Tiêu cực,Giảng viên,Khác
+làm cho các bạn bị thiệt_thòi .,Tiêu cực,Tiêu cực,Khác,Chương trình
+sử_dụng slide để hạn_chế việc ghi_chép quá nhiều .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+tôi chưa gặp thầy này lần nào .,Trung tính,Trung tính,Giảng viên,Khác
+"hôm trước lúc hỏi vấn_đề này tốt chưa thầy , thầy bảo tốt rồi , hôm sau lên báo_cáo thì nhè chỗ đó ra mà chửi .",Tiêu cực,Tiêu cực,Khác,Giảng viên
+"dạ , cho em hỏi là trường mình là tạo sao không dùng ngôn_ngữ chị thay cho assembly .",Trung tính,Trung tính,Chương trình,Khác
+tài_liệu đầy_đủ kiến_thức .,Tích cực,Trung tính,Chương trình,Chương trình
+nâng_cấp các thiết_bị phục_vụ thực_hành .,Tiêu cực,Trung tính,Cơ sở vật chất,Cơ sở vật chất
+"thầy không đảm_bảo giờ lên_lớp , lớp_học bù cũng không được đảm_bảo .",Tiêu cực,Trung tính,Giảng viên,Giảng viên
+sử_dụng nhiều ví_dụ giúp sinh_viên nắm kiến_thức nhanh .,Tích cực,Tích cực,Khác,Giảng viên
+trình_bày chưa đủ cuốn_hút .,Tiêu cực,Tiêu cực,Giảng viên,Khác
+môn_học này chất_lượng bình_thường .,Trung tính,Tiêu cực,Chương trình,Chương trình
+môn này là môn em hài_lòng nhất từ trước tới giờ .,Tích cực,Tiêu cực,Chương trình,Khác
+nhờ thầy wzjwz267 dạy thế nhiều sinh_viên tiến_bộ hơn .,Tích cực,Tiêu cực,Giảng viên,Giảng viên
+"tâm_lý giảng_dạy rất nặng_nề , áp_lực .",Tiêu cực,Tích cực,Giảng viên,Giảng viên
+nên lắp thêm máy_điều_hoà .,Tiêu cực,Tiêu cực,Cơ sở vật chất,Chương trình
+cô giải_thích chi_tiết các phần khó hiểu .,Tích cực,Tiêu cực,Giảng viên,Giảng viên
+giảng_viên làm mẫu một_số bài thực_hành cho sinh_viên .,Tích cực,Tiêu cực,Giảng viên,Giảng viên
+giảng_viên thân thiệt .,Tích cực,Trung tính,Giảng viên,Giảng viên
+đề thi lẫn lý_thuyết và trắc_nghiệm khó hơn nhiều so với kiến_thức đã được học .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+"ngoài thời_gian cố_định như trong thời_khoá_biểu của nhà_trường , em đều cố_gắng sắp_xếp đi đủ .",Trung tính,Tích cực,Khác,Khác
+"nên trả_lời những câu hỏi của sinh_viên một_cách nhanh nhất , không nên lẫn tránh hoặc bỏ_qua những câu hỏi của sinh_viên .",Tiêu cực,Tiêu cực,Khác,Giảng viên
+"nhưng đôi_khi dạy quá giờ , sinh_viên mệt_mỏi không kịp tiếp_nhận kiến_thức , lỡ bài .",Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+cô đại_học công_nghiệp việt_trì vẻ dễ_thương hỗ_trợ sinh_viên tích_cực .,Tích cực,Tích cực,Giảng viên,Khác
+phần chấm bài thuyết_trình quá sơ_sài .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+đi học rất ít nên rất mất_công người đi dậy .,Trung tính,Tiêu cực,Chương trình,Khác
+"cài phầm mềm của khoa wzjwz189 cực_kỳ khó_chịu , không biết mình sai chỗ nào .",Tiêu cực,Trung tính,Cơ sở vật chất,Khác
+hầu_như chúng_em không tiếp_thu được gì .,Tiêu cực,Trung tính,Khác,Khác
+nên trang_bị kiến_thức nền vững_chắc cho những môn chuyên_ngành .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+"thầy chuẩn_bị bài thực_hành sát với kiến_thức được học , sinh_viên cần gì có đó .",Tích cực,Tiêu cực,Giảng viên,Chương trình
+"trang_bị thêm thiết_bị quạt , đèn .",Tiêu cực,Trung tính,Cơ sở vật chất,Cơ sở vật chất
+"ngoài_ra , môn này khi đánh_giá đồ_án cuối kỳ thì chỉ nên đánh_giá vào cách trình_bày file báo_cáo , cách báo_cáo , cách thuyết_trình .",Tiêu cực,Tiêu cực,Chương trình,Khác
+hài_lòng về cách dạy và phương_thức truyền_đạt của thầy wzjwz161 .,Tích cực,Trung tính,Giảng viên,Giảng viên
+giảng kỹ lý_thuyết trước khi cho sinh_viên bắt_đầu thực_hành .,Tích cực,Tiêu cực,Giảng viên,Giảng viên
+em thấy vấn_đề điểm_danh khi đi học là không hiệu_quả .,Tiêu cực,Trung tính,Giảng viên,Khác
+nhiều khi tụi em nghĩ là thầy có biết gì không đây .,Tiêu cực,Trung tính,Giảng viên,Khác
+"tạo ra một môi_trường năng_động , giúp_đỡ nhiều cho sinh_viên trong kỹ_năng học_tập và làm_việc cũng như cách cư_xử trong cuộc_sống .",Tích cực,Tích cực,Chương trình,Giảng viên
+quá nghiêm_khắc tạo áp_lực .,Tiêu cực,Tiêu cực,Giảng viên,Khác
+không quan_tâm sinh_viên có nắm được kiến_thức hay không .,Tiêu cực,Tiêu cực,Giảng viên,Khác
+cho sinh_viên thực_hành một đề_bài quản_lý thông_tin trên nhiều ngôn_ngữ do sinh_viên tự chọn để sinh_viên thấy được mối liên_quan của môn_học với những môn khác cũng như với thực_tế .,Tiêu cực,Trung tính,Chương trình,Chương trình
+"em nói điều này có_thể hơi xúc_phạm nhưng kỹ_năng sư_phạm của thầy cần được cải_thiện , mặc_dù kiến_thức chuyên_môn có cao đi_chăng_nữa .",Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+có một_ít áp_lực .,Trung tính,Tích cực,Giảng viên,Khác
+phân_bố thời_gian khoảng 3 tiết .,Trung tính,Tiêu cực,Chương trình,Chương trình
+nếu có phần_mềm minh_hoạ cho các thuật_toán thì sẽ tốt hơn .,Tiêu cực,Trung tính,Chương trình,Khác
+không đảm_bảo thời_gian lên_lớp .,Tiêu cực,Trung tính,Giảng viên,Giảng viên
+ghi lý_thuyết và bài_tập trên bảng nhiều quá_thể .,Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+"các slide khó hiểu , ngôn_ngữ trong slide phức_tạp , lòng_vòng vì_vậy giảng_viên cần chỉnh_sửa lại slide giảng_dạy .",Tiêu cực,Tiêu cực,Giảng viên,Chương trình
+em tiếp_thu chậm .,Tiêu cực,Tiêu cực,Giảng viên,Khác
+"em có học ở một trung_tâm tiếng anh ở ngoài trường , thời_lượng hợp_lý , không nhiều không ít khoảng 2 - 3 tiết một buổi !",Trung tính,Tiêu cực,Chương trình,Chương trình
