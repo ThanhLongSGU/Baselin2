@@ -13,9 +13,13 @@ wheels/
 *.zip
 *.tar.gz
 *.rar
+*.pth
+*.safetensors
+*.bin
 Teencode
 storage
-models
+models/
+models_PhoBERT_GRU/
 results
 errors_sentiment_trung_tinh.csv
 errors_topic_khac.csv
