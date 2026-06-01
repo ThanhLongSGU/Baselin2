@@ -1,0 +1,11 @@
+BÁO CÁO PHOBERT + GRU: CẢM XÚC
+=============================================
+                precision    recall  f1-score   support
+
+  Tiêu cực (0)       0.02      0.02      0.02      1409
+Trung tính (1)       0.03      0.23      0.05       167
+  Tích cực (2)       0.07      0.00      0.01      1590
+
+      accuracy                           0.02      3166
+     macro avg       0.04      0.08      0.02      3166
+  weighted avg       0.05      0.02      0.01      3166
